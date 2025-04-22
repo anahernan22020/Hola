@@ -14,6 +14,7 @@ export default function EventPage({ params }: { params: { id: string } }) {
   const event = events.find((e) => e.id === params.id)
   const [selectedZone, setSelectedZone] = useState("")
   const [quantity, setQuantity] = useState(1)
+  const [imageError, setImageError] = useState(false)
 
   if (!event) {
     return <div className="container mx-auto p-8 text-center">Evento no encontrado</div>
@@ -24,6 +25,11 @@ export default function EventPage({ params }: { params: { id: string } }) {
   const selectedPrice = event.prices.find((p) => p.zone === selectedZone)?.price || 0
   const discountedPrice = hasDiscount ? selectedPrice * (1 - event.discount!.percentage / 100) : selectedPrice
   const total = discountedPrice * quantity
+
+  // Determinar la URL de la imagen
+  const imageUrl = imageError
+    ? `https://via.placeholder.com/800x400?text=${encodeURIComponent(event.name)}`
+    : event.image || "/placeholder.svg"
 
   const handleBuyTickets = () => {
     if (!selectedZone) {
@@ -56,16 +62,11 @@ export default function EventPage({ params }: { params: { id: string } }) {
           {/* Imagen y detalles del evento */}
           <div className="md:col-span-2">
             <div className="relative mb-6 h-[300px] w-full overflow-hidden rounded-lg md:h-[400px] bg-gray-200">
-              {/* Usamos una imagen estática en lugar de Next.js Image */}
               <img
-                src={event.image || "/placeholder.svg"}
+                src={imageUrl || "/placeholder.svg"}
                 alt={event.name}
                 className="h-full w-full object-cover"
-                onError={(e) => {
-                  // Si la imagen falla, usar un placeholder
-                  const target = e.target as HTMLImageElement
-                  target.src = `https://via.placeholder.com/800x400?text=${encodeURIComponent(event.name)}`
-                }}
+                onError={() => setImageError(true)}
               />
               {hasDiscount && (
                 <div className="absolute top-4 right-4 bg-red-500 text-white px-4 py-2 rounded-full text-sm font-bold">

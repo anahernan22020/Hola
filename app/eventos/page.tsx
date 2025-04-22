@@ -1,3 +1,5 @@
+"use client"
+
 import { EventCard } from "@/components/event-card"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { events } from "@/data/events"
