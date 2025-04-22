@@ -1,3 +1,0 @@
-# global requirements
-gunicorn==22.0.0
-
