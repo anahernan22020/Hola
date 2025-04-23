@@ -6,14 +6,22 @@ import { Separator } from "@/components/ui/separator"
 import { events } from "@/data/events"
 import { Calendar, Clock, MapPin, Tag, Info, CreditCard, ShoppingBag } from "lucide-react"
 import { useRouter } from "next/navigation"
-import { useState } from "react"
+import { useState, useEffect } from "react"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
+import { trackEventView, trackPurchaseStart } from "@/lib/analytics"
 
 export default function EventPage({ params }: { params: { id: string } }) {
   const router = useRouter()
   const event = events.find((e) => e.id === params.id)
   const [selectedZone, setSelectedZone] = useState("")
   const [quantity, setQuantity] = useState(1)
+
+  useEffect(() => {
+    // Rastrear vista de evento cuando la página se carga
+    if (event) {
+      trackEventView(event.id, event.name)
+    }
+  }, [event])
 
   if (!event) {
     return <div className="container mx-auto p-8 text-center">Evento no encontrado</div>
@@ -30,6 +38,9 @@ export default function EventPage({ params }: { params: { id: string } }) {
       alert("Por favor selecciona una zona")
       return
     }
+
+    // Rastrear inicio de compra
+    trackPurchaseStart(event.id, event.name)
 
     // Guardar información de compra en localStorage para usarla en la página de pago
     localStorage.setItem(
@@ -56,11 +67,7 @@ export default function EventPage({ params }: { params: { id: string } }) {
           {/* Imagen y detalles del evento */}
           <div className="md:col-span-2">
             <div className="relative mb-6 h-[300px] w-full overflow-hidden rounded-lg md:h-[400px] bg-gray-200">
-              <img
-                src={event.image.replace("400x200", "800x400") || "/placeholder.svg"}
-                alt={event.name}
-                className="h-full w-full object-cover"
-              />
+              <img src={event.image || "/placeholder.svg"} alt={event.name} className="h-full w-full object-cover" />
               {hasDiscount && (
                 <div className="absolute top-4 right-4 bg-red-500 text-white px-4 py-2 rounded-full text-sm font-bold">
                   {event.discount!.percentage}% OFF

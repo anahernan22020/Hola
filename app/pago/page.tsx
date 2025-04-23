@@ -12,6 +12,7 @@ import { useToast } from "@/hooks/use-toast"
 import { CreditCard, Landmark, Store } from "lucide-react"
 import { useRouter } from "next/navigation"
 import { useEffect, useState } from "react"
+import { trackPaymentMethodSelected, trackPurchaseComplete } from "@/lib/analytics"
 
 interface PurchaseInfo {
   eventId: string
@@ -50,6 +51,13 @@ export default function PaymentPage() {
     }
   }, [router])
 
+  // Rastrear cuando el usuario cambia el método de pago
+  const handlePaymentMethodChange = (value: string) => {
+    const method = value as "card" | "transfer" | "oxxo"
+    setPaymentMethod(method)
+    trackPaymentMethodSelected(method === "card" ? "Tarjeta" : method === "transfer" ? "Transferencia" : "Oxxo")
+  }
+
   const handlePayment = async (e: React.FormEvent) => {
     e.preventDefault()
     setIsLoading(true)
@@ -76,6 +84,11 @@ export default function PaymentPage() {
 
         // Enviar datos a un webhook o servicio para notificar al administrador
         // Esta parte sería implementada en un backend real
+      }
+
+      // Rastrear compra completada
+      if (purchaseInfo) {
+        trackPurchaseComplete(purchaseInfo.eventId, purchaseInfo.eventName, purchaseInfo.total)
       }
 
       // Guardar método de pago para la página de confirmación
@@ -141,7 +154,7 @@ export default function PaymentPage() {
                 <form onSubmit={handlePayment}>
                   <RadioGroup
                     value={paymentMethod}
-                    onValueChange={(value) => setPaymentMethod(value as "card" | "transfer" | "oxxo")}
+                    onValueChange={handlePaymentMethodChange}
                     className="mb-6 space-y-4"
                   >
                     <div className="flex items-center space-x-2">
