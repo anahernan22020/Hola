@@ -263,8 +263,8 @@ export default function PaymentPage() {
                       </p>
                       <div className="space-y-2 text-sm">
                         <div className="grid grid-cols-2">
-                          <span className="font-medium">Número de referencia:</span>
-                          <span>9876543210</span>
+                          <span className="font-medium">Número de tarjeta:</span>
+                          <span className="font-mono">2242 1703 2044 0374</span>
                         </div>
                         <div className="grid grid-cols-2">
                           <span className="font-medium">Concepto:</span>
