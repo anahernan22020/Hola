@@ -4,7 +4,6 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardFooter } from "@/components/ui/card"
 import { Calendar, MapPin, Tag } from "lucide-react"
 import Link from "next/link"
-import { useState } from "react"
 
 interface Event {
   id: string
@@ -32,8 +31,6 @@ interface EventCardProps {
 }
 
 export function EventCard({ event, compact = false }: EventCardProps) {
-  const [imageError, setImageError] = useState(false)
-
   // Encontrar el precio más bajo
   const lowestPrice = Math.min(...event.prices.map((p) => p.price))
 
@@ -41,20 +38,10 @@ export function EventCard({ event, compact = false }: EventCardProps) {
   const hasDiscount = !!event.discount
   const discountedPrice = hasDiscount ? lowestPrice * (1 - event.discount!.percentage / 100) : lowestPrice
 
-  // Determinar la URL de la imagen
-  const imageUrl = imageError
-    ? `https://via.placeholder.com/400x200?text=${encodeURIComponent(event.name)}`
-    : event.image || "/placeholder.svg"
-
   return (
     <Card className="overflow-hidden transition-all hover:shadow-md">
       <div className="relative h-48 w-full bg-gray-200">
-        <img
-          src={imageUrl || "/placeholder.svg"}
-          alt={event.name}
-          className="h-full w-full object-cover"
-          onError={() => setImageError(true)}
-        />
+        <img src={event.image || "/placeholder.svg"} alt={event.name} className="h-full w-full object-cover" />
         {hasDiscount && (
           <div className="absolute top-0 right-0 bg-red-500 text-white px-2 py-1 text-xs font-bold">
             {event.discount!.percentage}% OFF

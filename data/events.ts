@@ -6,7 +6,7 @@ export const events = [
     time: "21:00",
     venue: "Estadio GNP Seguros",
     location: "Ciudad de México, CDMX",
-    image: "/images/lady-gaga.png",
+    image: "https://via.placeholder.com/400x200?text=Lady+Gaga",
     category: "conciertos",
     prices: [
       { zone: "General", price: 1500 },
@@ -27,7 +27,7 @@ export const events = [
     time: "21:00",
     venue: "Estadio GNP Seguros",
     location: "Ciudad de México, CDMX",
-    image: "/images/lady-gaga.png",
+    image: "https://via.placeholder.com/400x200?text=Lady+Gaga",
     category: "conciertos",
     prices: [
       { zone: "General", price: 1500 },
@@ -48,7 +48,7 @@ export const events = [
     time: "20:30",
     venue: "Lunario",
     location: "Ciudad de México, CDMX",
-    image: "/images/akon.png",
+    image: "https://via.placeholder.com/400x200?text=Akon",
     category: "conciertos",
     prices: [
       { zone: "General", price: 1000 },
@@ -68,7 +68,7 @@ export const events = [
     time: "21:00",
     venue: "Teatro Metropólitan",
     location: "Ciudad de México, CDMX",
-    image: "/images/arcade-fire.png",
+    image: "https://via.placeholder.com/400x200?text=Arcade+Fire",
     category: "conciertos",
     prices: [
       { zone: "General", price: 1200 },
@@ -88,7 +88,7 @@ export const events = [
     time: "21:30",
     venue: "Palacio de los Deportes",
     location: "Ciudad de México, CDMX",
-    image: "/images/teatro.png",
+    image: "https://via.placeholder.com/400x200?text=Teatro",
     category: "teatro",
     prices: [{ zone: "General", price: 800 }],
     description:
@@ -105,7 +105,7 @@ export const events = [
     time: "20:00",
     venue: "Foro Indie Rocks!",
     location: "Ciudad de México, CDMX",
-    image: "/images/lisute.png",
+    image: "https://via.placeholder.com/400x200?text=Lisute",
     category: "conciertos",
     prices: [{ zone: "General", price: 600 }],
     description:
@@ -122,7 +122,7 @@ export const events = [
     time: "21:00",
     venue: "Lirico, CDMX",
     location: "Ciudad de México, CDMX",
-    image: "/images/the-hives.png",
+    image: "https://via.placeholder.com/400x200?text=The+Hives",
     category: "conciertos",
     prices: [{ zone: "General", price: 900 }],
     description:
@@ -139,7 +139,7 @@ export const events = [
     time: "21:00",
     venue: "Auditorio BB",
     location: "Ciudad de México, CDMX",
-    image: "/images/blessd.png",
+    image: "https://via.placeholder.com/400x200?text=Blessd",
     category: "conciertos",
     prices: [{ zone: "General", price: 1100 }],
     description:
@@ -156,7 +156,7 @@ export const events = [
     time: "20:00",
     venue: "Auditorio BB",
     location: "Ciudad de México, CDMX",
-    image: "/images/miyavi.png",
+    image: "https://via.placeholder.com/400x200?text=Miyavi",
     category: "conciertos",
     prices: [{ zone: "General", price: 850 }],
     description:
@@ -173,7 +173,7 @@ export const events = [
     time: "21:00",
     venue: "Auditorio Citibanamex",
     location: "Monterrey, NL",
-    image: "/images/danna-paola.png",
+    image: "https://via.placeholder.com/400x200?text=Danna+Paola",
     category: "conciertos",
     prices: [{ zone: "General", price: 1300 }],
     description:
@@ -190,7 +190,7 @@ export const events = [
     time: "21:00",
     venue: "Auditorio Telmex",
     location: "Guadalajara, JAL",
-    image: "/images/myke-towers.png",
+    image: "https://via.placeholder.com/400x200?text=Myke+Towers",
     category: "conciertos",
     prices: [{ zone: "General", price: 1600 }],
     description:
@@ -207,7 +207,7 @@ export const events = [
     time: "21:30",
     venue: "Foro 1869",
     location: "Ciudad de México, CDMX",
-    image: "/images/david-nico.png",
+    image: "https://via.placeholder.com/400x200?text=David+y+Nico",
     category: "conciertos",
     prices: [{ zone: "General", price: 700 }],
     description:
@@ -224,7 +224,7 @@ export const events = [
     time: "21:00",
     venue: "Auditorio Nacional",
     location: "Ciudad de México, CDMX",
-    image: "/images/angeles-azules.png",
+    image: "https://via.placeholder.com/400x200?text=Los+Angeles+Azules",
     category: "conciertos",
     prices: [{ zone: "General", price: 1800 }],
     description:
@@ -241,7 +241,7 @@ export const events = [
     time: "Varios horarios",
     venue: "Auditorio Nacional",
     location: "Ciudad de México, CDMX",
-    image: "/images/hombres-g.png",
+    image: "https://via.placeholder.com/400x200?text=Hombres+G",
     category: "conciertos",
     prices: [{ zone: "General", price: 1800 }],
     description:
@@ -258,7 +258,7 @@ export const events = [
     time: "Varios horarios",
     venue: "Auditorio Nacional",
     location: "Ciudad de México, CDMX",
-    image: "/images/lupita-dalessio.png",
+    image: "https://via.placeholder.com/400x200?text=Lupita+D%27Alessio",
     category: "conciertos",
     prices: [{ zone: "General", price: 1800 }],
     description:

@@ -5,11 +5,8 @@ import { Button } from "@/components/ui/button"
 import { events } from "@/data/events"
 import { ArrowRight, Search } from "lucide-react"
 import Link from "next/link"
-import { useState } from "react"
 
 export default function Home() {
-  const [heroImageError, setHeroImageError] = useState(false)
-
   // Mostrar solo los primeros 6 eventos en la página principal
   const featuredEvents = events.slice(0, 6)
 
@@ -21,21 +18,15 @@ export default function Home() {
     { name: "Festivales", icon: "🎪" },
   ]
 
-  // Determinar la URL de la imagen de fondo
-  const heroImageUrl = heroImageError
-    ? "https://via.placeholder.com/1920x1080?text=Conciertos+y+Eventos"
-    : "/images/concert-bg.png"
-
   return (
     <div className="flex flex-col">
       {/* Hero Section con imagen de fondo */}
       <section className="relative h-[500px] w-full overflow-hidden">
         <div className="absolute inset-0 bg-purple-900">
           <img
-            src={heroImageUrl || "/placeholder.svg"}
+            src="https://via.placeholder.com/1920x1080?text=Conciertos+y+Eventos"
             alt="Eventos en vivo"
             className="h-full w-full object-cover brightness-50"
-            onError={() => setHeroImageError(true)}
           />
         </div>
         <div className="container relative z-10 mx-auto flex h-full flex-col items-center justify-center px-4 text-center text-white">
