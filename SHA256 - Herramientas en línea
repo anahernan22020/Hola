@@ -1,0 +1,842 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://emn178.github.io/online-tools/sha256.html
+Subject: =?utf-8?Q?SHA256=20-=20Herramientas=20en=20l=C3=ADnea?=
+Date: Tue, 22 Apr 2025 15:26:31 -0600
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--63hNU4vuJ6rrmcGUwRKAwI387qana3JNzse5qrR0eU----"
+
+
+------MultipartBoundary--63hNU4vuJ6rrmcGUwRKAwI387qana3JNzse5qrR0eU----
+Content-Type: text/html
+Content-ID: <frame-8338C8F7BF2B7B6820A0B07A4056C006@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://emn178.github.io/online-tools/sha256.html
+
+<!DOCTYPE html><html lang="es" class="translated-ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="content-language" content="en"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>SHA256 - Herramientas en línea</title><base href="https://emn178.github.io/online-tools/"><meta name="keywords" content="SHA256, online, hash, HMAC, UTF-8, UTF-16, Hex, Base64"><meta name="author" content="emn178"><meta name="copyright" content="emn178"><meta name="description" content="This SHA256 online tool helps you calculate hashes from strings. You can input UTF-8, UTF-16, Hex, Base64, or other encodings. It also supports HMAC."><meta property="og:type" content="website"><meta property="og:title" content="SHA256"><meta property="og:url" content="https://emn178.github.io/online-tools/sha256.html"><meta property="og:site_name" content="Online Tools"><meta property="og:description" content="This SHA256 online tool helps you calculate hashes from strings. You can input UTF-8, UTF-16, Hex, Base64, or other encodings. It also supports HMAC."><meta property="og:locale" content="en"><meta property="og:image" content="https://emn178.github.io/online-tools/images/logo.svg"><meta property="article:author" content="emn178"><meta property="article:tag" content="SHA256, online, hash, HMAC, UTF-8, UTF-16, Hex, Base64"><meta property="twitter:card" content="summary"><meta property="twitter:image" content="https://emn178.github.io/online-tools/images/logo.svg"><link rel="canonical" href="https://emn178.github.io/online-tools/sha256.html"><link rel="icon" href="https://emn178.github.io/online-tools/images/logo.svg"><link rel="stylesheet" href="https://emn178.github.io/online-tools/css/style.css?v=27"><link type="text/css" rel="stylesheet" charset="UTF-8" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.NJgGN_yGIWM.L.W.O/am=AAY/d=0/rs=AN8SPfrTSMIvWAFISYN4u74dPJrX0HgUsw/m=el_main_css"></head><body style=""><div id="app"><div id="sidebar"><div class="mask"></div><div class="container"><header><a href="https://emn178.github.io/online-tools/"><img src="https://emn178.github.io/online-tools/images/logo.svg" width="18" height="18" alt="Logo"><h2><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Herramientas en línea</font></font></h2></a><div class="toolbar"><button class="icon theme"><img class="light" src="https://emn178.github.io/online-tools/images/light.svg" alt="Modo oscuro" title="Modo oscuro"><img class="dark" src="https://emn178.github.io/online-tools/images/dark.svg" alt="Modo oscuro" title="Modo oscuro"></button></div></header><div class="section"><h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Picadillo</font></font></h3><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CRC</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/crc/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CRC</font></font></a></li></ol></nav></details><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Maryland</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/md2.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MD2</font></font></a></li><li><a href="https://emn178.github.io/online-tools/md2_file_hash.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo MD2</font></font></a></li><li><a href="https://emn178.github.io/online-tools/md4.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MD4</font></font></a></li><li><a href="https://emn178.github.io/online-tools/md4_file_hash.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo MD4</font></font></a></li><li><a href="https://emn178.github.io/online-tools/md5.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MD5</font></font></a></li><li><a href="https://emn178.github.io/online-tools/md5_checksum.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo MD5</font></font></a></li></ol></nav></details><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SHA1</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/sha1.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SHA1</font></font></a></li><li><a href="https://emn178.github.io/online-tools/sha1_checksum.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo SHA1</font></font></a></li></ol></nav></details><details class="active" open=""><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SHA2</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/sha224.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SHA224</font></font></a></li><li><a href="https://emn178.github.io/online-tools/sha224_checksum.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo SHA224</font></font></a></li><li class="active"><a href="https://emn178.github.io/online-tools/sha256.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SHA256</font></font></a></li><li><a href="https://emn178.github.io/online-tools/sha256_checksum.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo SHA256</font></font></a></li><li><a href="https://emn178.github.io/online-tools/double_sha256.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Doble SHA256</font></font></a></li></ol></nav></details><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SHA2-512</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/sha384.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SHA384</font></font></a></li><li><a href="https://emn178.github.io/online-tools/sha384_file_hash.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo SHA384</font></font></a></li><li><a href="https://emn178.github.io/online-tools/sha512.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SHA512</font></font></a></li><li><a href="https://emn178.github.io/online-tools/sha512_file_hash.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo SHA512</font></font></a></li><li><a href="https://emn178.github.io/online-tools/sha512_224.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SHA512/224</font></font></a></li><li><a href="https://emn178.github.io/online-tools/sha512_224_file_hash.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo SHA512/224</font></font></a></li><li><a href="https://emn178.github.io/online-tools/sha512_256.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SHA512/256</font></font></a></li><li><a href="https://emn178.github.io/online-tools/sha512_256_file_hash.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo SHA512/256</font></font></a></li></ol></nav></details><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SHA3</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/sha3_224.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SHA3-224</font></font></a></li><li><a href="https://emn178.github.io/online-tools/sha3_224_checksum.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo SHA3-224</font></font></a></li><li><a href="https://emn178.github.io/online-tools/sha3_256.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SHA3-256</font></font></a></li><li><a href="https://emn178.github.io/online-tools/sha3_256_checksum.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo SHA3-256</font></font></a></li><li><a href="https://emn178.github.io/online-tools/sha3_384.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SHA3-384</font></font></a></li><li><a href="https://emn178.github.io/online-tools/sha3_384_checksum.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo SHA3-384</font></font></a></li><li><a href="https://emn178.github.io/online-tools/sha3_512.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SHA3-512</font></font></a></li><li><a href="https://emn178.github.io/online-tools/sha3_512_checksum.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo SHA3-512</font></font></a></li></ol></nav></details><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Keccak</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/keccak_224.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Keccak-224</font></font></a></li><li><a href="https://emn178.github.io/online-tools/keccak_224_checksum.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo Keccak-224</font></font></a></li><li><a href="https://emn178.github.io/online-tools/keccak_256.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Keccak-256</font></font></a></li><li><a href="https://emn178.github.io/online-tools/keccak_256_checksum.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo Keccak-256</font></font></a></li><li><a href="https://emn178.github.io/online-tools/keccak_384.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Keccak-384</font></font></a></li><li><a href="https://emn178.github.io/online-tools/keccak_384_checksum.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo Keccak-384</font></font></a></li><li><a href="https://emn178.github.io/online-tools/keccak_512.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Keccak-512</font></font></a></li><li><a href="https://emn178.github.io/online-tools/keccak_512_checksum.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo Keccak-512</font></font></a></li></ol></nav></details><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AGITAR</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/shake128/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SHAKE128</font></font></a></li><li><a href="https://emn178.github.io/online-tools/shake128/file/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo SHAKE128</font></font></a></li><li><a href="https://emn178.github.io/online-tools/shake256/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SHAKE256</font></font></a></li><li><a href="https://emn178.github.io/online-tools/shake256/file/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo SHAKE256</font></font></a></li></ol></nav></details><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cSHAKE</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/cshake128/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cSHAKE128</font></font></a></li><li><a href="https://emn178.github.io/online-tools/cshake128/file/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo cSHAKE128</font></font></a></li><li><a href="https://emn178.github.io/online-tools/cshake256/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cSHAKE256</font></font></a></li><li><a href="https://emn178.github.io/online-tools/cshake256/file/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo cSHAKE256</font></font></a></li></ol></nav></details><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KMAC</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/kmac128/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KMAC128</font></font></a></li><li><a href="https://emn178.github.io/online-tools/kmac128/file/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo KMAC128</font></font></a></li><li><a href="https://emn178.github.io/online-tools/kmac256/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KMAC256</font></font></a></li><li><a href="https://emn178.github.io/online-tools/kmac256/file/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo KMAC256</font></font></a></li></ol></nav></details><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RIPEMD</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/ripemd-128/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RIPEMD-128</font></font></a></li><li><a href="https://emn178.github.io/online-tools/ripemd-128/file/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo RIPEMD-128</font></font></a></li><li><a href="https://emn178.github.io/online-tools/ripemd-160/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RIPEMD-160</font></font></a></li><li><a href="https://emn178.github.io/online-tools/ripemd-160/file/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo RIPEMD-160</font></font></a></li><li><a href="https://emn178.github.io/online-tools/ripemd-256/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RIPEMD-256</font></font></a></li><li><a href="https://emn178.github.io/online-tools/ripemd-256/file/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo RIPEMD-256</font></font></a></li><li><a href="https://emn178.github.io/online-tools/ripemd-320/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RIPEMD-320</font></font></a></li><li><a href="https://emn178.github.io/online-tools/ripemd-320/file/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo RIPEMD-320</font></font></a></li></ol></nav></details><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BLAKE</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/blake2b/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BLAKE2b</font></font></a></li><li><a href="https://emn178.github.io/online-tools/blake2b/file/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo BLAKE2b</font></font></a></li><li><a href="https://emn178.github.io/online-tools/blake2s/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BLAKE2</font></font></a></li><li><a href="https://emn178.github.io/online-tools/blake2s/file/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo BLAKE2s</font></font></a></li><li><a href="https://emn178.github.io/online-tools/blake3/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BLAKE3</font></font></a></li><li><a href="https://emn178.github.io/online-tools/blake3/file/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo BLAKE3</font></font></a></li></ol></nav></details></div><div class="section"><h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Criptografía</font></font></h3><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AES</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/aes/encrypt/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cifrado</font></font></a></li><li><a href="https://emn178.github.io/online-tools/aes/decrypt/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Descifrado</font></font></a></li></ol></nav></details><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DES</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/des/encrypt/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cifrado</font></font></a></li><li><a href="https://emn178.github.io/online-tools/des/decrypt/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Descifrado</font></font></a></li></ol></nav></details><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Triple DES</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/triple-des/encrypt/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cifrado</font></font></a></li><li><a href="https://emn178.github.io/online-tools/triple-des/decrypt/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Descifrado</font></font></a></li></ol></nav></details><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RC4</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/rc4/encrypt/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cifrado</font></font></a></li><li><a href="https://emn178.github.io/online-tools/rc4/decrypt/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Descifrado</font></font></a></li></ol></nav></details><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ECDSA</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/ecdsa/key-generator/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Generador de claves</font></font></a></li><li><a href="https://emn178.github.io/online-tools/ecdsa/sign/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Firmar mensaje</font></font></a></li><li><a href="https://emn178.github.io/online-tools/ecdsa/verify/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Verificar firma</font></font></a></li></ol></nav></details><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RSA</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/rsa/key-generator/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Generador de claves</font></font></a></li><li><a href="https://emn178.github.io/online-tools/rsa/sign/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Firmar mensaje</font></font></a></li><li><a href="https://emn178.github.io/online-tools/rsa/verify/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Verificar firma</font></font></a></li><li><a href="https://emn178.github.io/online-tools/rsa/encrypt/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cifrado</font></font></a></li><li><a href="https://emn178.github.io/online-tools/rsa/decrypt/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Descifrado</font></font></a></li></ol></nav></details></div><div class="section"><h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Codificación</font></font></h3><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hexadecimal (base 16)</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/hex_encode.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Codificar</font></font></a></li><li><a href="https://emn178.github.io/online-tools/hex_decode.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Descodificar</font></font></a></li><li><a href="https://emn178.github.io/online-tools/hex_encode_file.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo a hexadecimal</font></font></a></li><li><a href="https://emn178.github.io/online-tools/hex_decode_file.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hex a archivo</font></font></a></li></ol></nav></details><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Base32</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/base32_encode.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Codificar</font></font></a></li><li><a href="https://emn178.github.io/online-tools/base32_decode.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Descodificar</font></font></a></li><li><a href="https://emn178.github.io/online-tools/base32_encode_file.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo a Base32</font></font></a></li><li><a href="https://emn178.github.io/online-tools/base32_decode_file.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Base32 a archivo</font></font></a></li></ol></nav></details><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Base58</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/base58/encode/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Codificar</font></font></a></li><li><a href="https://emn178.github.io/online-tools/base58/decode/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Descodificar</font></font></a></li><li><a href="https://emn178.github.io/online-tools/base58/encode/file/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo a Base58</font></font></a></li><li><a href="https://emn178.github.io/online-tools/base58/decode/file/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Base58 a archivo</font></font></a></li></ol></nav></details><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Base64</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/base64_encode.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Codificar</font></font></a></li><li><a href="https://emn178.github.io/online-tools/base64_decode.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Descodificar</font></font></a></li><li><a href="https://emn178.github.io/online-tools/base64_encode_file.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivo a Base64</font></font></a></li><li><a href="https://emn178.github.io/online-tools/base64_decode_file.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Base64 a archivo</font></font></a></li></ol></nav></details><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HTML</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/html_encode.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Codificar</font></font></a></li><li><a href="https://emn178.github.io/online-tools/html_decode.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Descodificar</font></font></a></li></ol></nav></details><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">URL</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/url_encode.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Codificar</font></font></a></li><li><a href="https://emn178.github.io/online-tools/url_decode.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Descodificar</font></font></a></li></ol></nav></details></div><div class="section"><h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Formato</font></font></h3><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JSON</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/json/validator/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Validador</font></font></a></li><li><a href="https://emn178.github.io/online-tools/json/minifier/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Minificador</font></font></a></li><li><a href="https://emn178.github.io/online-tools/json/formatter/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Formateador</font></font></a></li><li><a href="https://emn178.github.io/online-tools/json/viewer/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Espectador</font></font></a></li></ol></nav></details><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">XML</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/xml/validator/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Validador</font></font></a></li><li><a href="https://emn178.github.io/online-tools/xml/minifier/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Minificador</font></font></a></li><li><a href="https://emn178.github.io/online-tools/xml/formatter/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Formateador</font></font></a></li></ol></nav></details></div><div class="section"><h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Convertir</font></font></h3><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Caso</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/case/lower/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">minúscula</font></font></a></li><li><a href="https://emn178.github.io/online-tools/case/upper/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MAYÚSCULAS</font></font></a></li><li><a href="https://emn178.github.io/online-tools/case/lower-camel/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">mayúsculas y minúsculas</font></font></a></li><li><a href="https://emn178.github.io/online-tools/case/upper-camel/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mayúsculas y minúsculas</font></font></a></li><li><a href="https://emn178.github.io/online-tools/case/snake/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">caso de serpiente</font></font></a></li><li><a href="https://emn178.github.io/online-tools/case/kebab/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">caja de kebab</font></font></a></li><li><a href="https://emn178.github.io/online-tools/case/constant/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CONSTANT_CASE</font></font></a></li></ol></nav></details></div><div class="section"><h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Otros</font></font></h3><details><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Otros</font></font></summary><nav><ol><li><a href="https://emn178.github.io/online-tools/qr-code/generator/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Generador de códigos QR</font></font></a></li><li><a href="https://emn178.github.io/online-tools/syntax-highlight/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Resaltado de sintaxis</font></font></a></li></ol></nav></details></div><div class="section"><h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Campo de golf</font></font></h3><nav class="links"><ol><li><a href="https://github.com/emn178/online-tools/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Contacto</font></font></a></li></ol></nav></div></div></div><div id="content"><div class="top-nav"><button id="sidebar-toggler" aria-controls="sidebar" aria-expanded="false" aria-label="Menú"><img src="https://emn178.github.io/online-tools/images/menu.svg" width="24" height="24" alt="Menú"></button></div><header><h1><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SHA256</font></font></h1><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Esta herramienta en línea SHA256 le ayuda a calcular hashes de cadenas. Puede introducir codificaciones UTF-8, UTF-16, hexadecimal, Base64 u otras. También es compatible con HMAC.</font></font></p></header><main><div class="layout"><div class="layout-block"><div class="input"><div class="block block-fill"><div class="block-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aporte</font></font><div class="toolbar"><button class="icon" data-toggle="fullscreen"><img class="fullscreen-icon" src="https://emn178.github.io/online-tools/images/fullscreen.svg" alt="Pantalla completa" title="Pantalla completa"><img class="fullscreen-icon-exit" src="https://emn178.github.io/online-tools/images/fullscreen-exit.svg" alt="Pantalla completa" title="Pantalla completa"></button></div></div><textarea class="container" id="input" spellcheck="false" placeholder="Entra aquí..." data-remember="input" data-share="input" data-encoding-from="#input-type" data-auto-update="" data-toggle="monacoEditor"></textarea></div></div><div class="output"><div class="block block-fill"><div class="block-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Producción</font></font><div class="toolbar"><button class="icon" data-toggle="copy" data-clipboard-target="#output" data-message="Output copied"><img src="https://emn178.github.io/online-tools/images/copy.svg" alt="Copiar" title="Copiar"></button><button class="icon" data-toggle="fullscreen"><img class="fullscreen-icon" src="https://emn178.github.io/online-tools/images/fullscreen.svg" alt="Pantalla completa" title="Pantalla completa"><img class="fullscreen-icon-exit" src="https://emn178.github.io/online-tools/images/fullscreen-exit.svg" alt="Pantalla completa" title="Pantalla completa"></button></div></div><textarea class="container" id="output" spellcheck="false" placeholder="Salida aquí..." data-encoding-from="#output-type" data-toggle="monacoEditor" readonly="readonly"></textarea></div><details class="block text-only" data-toggle="copyblock"><summary class="block-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Compartir enlace</font></font><div class="toolbar"><button class="icon" data-toggle="copy" data-clipboard-target="#share-link" data-message="Share link copied"><img src="https://emn178.github.io/online-tools/images/copy.svg" alt="Copiar" title="Copiar"></button></div></summary><div></div></details></div></div><div class="settings"><div class="block block-fill"><div class="block-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ajustes</font></font></div><div class="container"><div class="setting"><a class="btn" id="execute"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Picadillo</font></font></a></div><div class="setting"><label class="switcher"><input type="checkbox" value="1" id="auto-update" checked=""><div class="toggle"></div><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Actualización automática</font></font></span></label></div><div class="setting"><label class="switcher"><input type="checkbox" value="1" id="remember-input"><div class="toggle"></div><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Recordar entrada</font></font></span></label></div><div class="setting"><label for="input-type"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Codificación de entrada</font></font></label><select data-toggle="encoding" id="input-type" data-remember="input-type" data-share="input_type" data-auto-update=""><optgroup label="Binary"><option value="hex"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Maleficio</font></font></option><option value="base64" data-load-encoding="base64"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Base64</font></font></option></optgroup><optgroup label="Text"><option value="utf-8" selected=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UTF-8</font></font></option><option value="utf-16le" data-load-encoding="1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UTF-16LE</font></font></option><option value="utf-16be" data-load-encoding="1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UTF-16BE</font></font></option><option value="ibm866" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IBM866</font></font></option><option value="iso-8859-2" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-2</font></font></option><option value="iso-8859-3" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-3</font></font></option><option value="iso-8859-4" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-4</font></font></option><option value="iso-8859-5" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-5</font></font></option><option value="iso-8859-6" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-6</font></font></option><option value="iso-8859-7" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-7</font></font></option><option value="iso-8859-8" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-8</font></font></option><option value="iso-8859-8-i" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-8-I</font></font></option><option value="iso-8859-10" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-10</font></font></option><option value="iso-8859-13" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-13</font></font></option><option value="iso-8859-14" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-14</font></font></option><option value="iso-8859-15" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-15</font></font></option><option value="iso-8859-16" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-16</font></font></option><option value="koi8-r" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KOI8-R</font></font></option><option value="koi8-u" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KOI8-U</font></font></option><option value="macintosh" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Macintosh</font></font></option><option value="windows-874" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows-874</font></font></option><option value="windows-1250" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows-1250</font></font></option><option value="windows-1251" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows-1251</font></font></option><option value="windows-1252" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows-1252</font></font></option><option value="windows-1253" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows-1253</font></font></option><option value="windows-1254" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows-1254</font></font></option><option value="windows-1255" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows-1255</font></font></option><option value="windows-1256" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows-1256</font></font></option><option value="windows-1257" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows-1257</font></font></option><option value="windows-1258" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows-1258</font></font></option><option value="x-mac-cyrillic" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x-mac-cirílico</font></font></option><option value="gbk" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GBK</font></font></option><option value="gb18030" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">gb18030</font></font></option><option value="big5" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cinco grandes</font></font></option><option value="euc-jp" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EUC-JP</font></font></option><option value="iso-2022-jp" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-2022-JP</font></font></option><option value="shift_jis" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Shift_JIS</font></font></option><option value="euc-kr" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EUC-KR</font></font></option><option value="x-user-defined" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x definido por el usuario</font></font></option></optgroup></select></div><div class="setting"><label for="output-type"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Codificación de salida</font></font></label><select data-toggle="encoding" id="output-type" data-remember="output-type" data-share="output_type" data-auto-update="" data-type="hex"><option value="hex"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hex (minúsculas)</font></font></option><option value="hex_upper"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hex (mayúsculas)</font></font></option><option value="base64" data-load-encoding="base64"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Base64</font></font></option></select></div><div class="setting"><label class="switcher"><input type="checkbox" value="1" id="hmac-enabled" data-remember="hmac-enabled" data-share="hmac_enabled" data-auto-update=""><div class="toggle"></div><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Habilitar HMAC</font></font></span></label></div><details class="setting-group" id="hmac" style="display:none" open=""><summary><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HMAC</font></font></summary><div class="setting"><label for="hmac-input-type"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Codificación</font></font></label><select data-toggle="encoding" id="hmac-input-type" data-remember="hmac-input-type" data-share="hmac_input_type" data-auto-update=""><optgroup label="Binary"><option value="hex"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Maleficio</font></font></option><option value="base64" data-load-encoding="base64"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Base64</font></font></option></optgroup><optgroup label="Text"><option value="utf-8" selected=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UTF-8</font></font></option><option value="utf-16le" data-load-encoding="1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UTF-16LE</font></font></option><option value="utf-16be" data-load-encoding="1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UTF-16BE</font></font></option><option value="ibm866" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IBM866</font></font></option><option value="iso-8859-2" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-2</font></font></option><option value="iso-8859-3" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-3</font></font></option><option value="iso-8859-4" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-4</font></font></option><option value="iso-8859-5" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-5</font></font></option><option value="iso-8859-6" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-6</font></font></option><option value="iso-8859-7" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-7</font></font></option><option value="iso-8859-8" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-8</font></font></option><option value="iso-8859-8-i" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-8-I</font></font></option><option value="iso-8859-10" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-10</font></font></option><option value="iso-8859-13" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-13</font></font></option><option value="iso-8859-14" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-14</font></font></option><option value="iso-8859-15" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-15</font></font></option><option value="iso-8859-16" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-8859-16</font></font></option><option value="koi8-r" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KOI8-R</font></font></option><option value="koi8-u" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KOI8-U</font></font></option><option value="macintosh" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Macintosh</font></font></option><option value="windows-874" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows-874</font></font></option><option value="windows-1250" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows-1250</font></font></option><option value="windows-1251" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows-1251</font></font></option><option value="windows-1252" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows-1252</font></font></option><option value="windows-1253" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows-1253</font></font></option><option value="windows-1254" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows-1254</font></font></option><option value="windows-1255" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows-1255</font></font></option><option value="windows-1256" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows-1256</font></font></option><option value="windows-1257" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows-1257</font></font></option><option value="windows-1258" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows-1258</font></font></option><option value="x-mac-cyrillic" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x-mac-cirílico</font></font></option><option value="gbk" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GBK</font></font></option><option value="gb18030" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">gb18030</font></font></option><option value="big5" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cinco grandes</font></font></option><option value="euc-jp" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EUC-JP</font></font></option><option value="iso-2022-jp" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ISO-2022-JP</font></font></option><option value="shift_jis" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Shift_JIS</font></font></option><option value="euc-kr" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EUC-KR</font></font></option><option value="x-user-defined" data-load-encoding="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x definido por el usuario</font></font></option></optgroup></select></div><div class="setting"><label for="hmac-key"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Llave</font></font></label><input type="text" id="hmac-key" data-remember="hmac-key" data-share="hmac_key" data-encoding-from="#hmac-input-type" data-auto-update=""></div></details></div></div></div></div></main></div><div id="message" style="display: none;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Salida copiada</font></font></div></div><input id="share-link" type="text" placeholder="Compartir enlace" readonly="readonly" class="hidden-input"><div id="goog-gt-tt" class="VIpgJd-yAWNEb-L7lbkb skiptranslate" style="border-radius: 12px; margin: 0 0 0 -23px; padding: 0; font-family: 'Google Sans', Arial, sans-serif;" data-id=""><div id="goog-gt-vt" class="VIpgJd-yAWNEb-hvhgNd"><div class=" VIpgJd-yAWNEb-hvhgNd-l4eHX-i3jM8c"><img src="https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg" width="24" height="24" alt=""></div><div class=" VIpgJd-yAWNEb-hvhgNd-k77Iif-i3jM8c"><div class="VIpgJd-yAWNEb-hvhgNd-IuizWc" dir="ltr">Texto original</div><div id="goog-gt-original-text" class="VIpgJd-yAWNEb-nVMfcd-fmcmS VIpgJd-yAWNEb-hvhgNd-axAV1"></div></div><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid ltr"><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid-B7I4Od ltr" dir="ltr"><div class="VIpgJd-yAWNEb-hvhgNd-UTujCb">Valora esta traducción</div><div class="VIpgJd-yAWNEb-hvhgNd-eO9mKe">Tu opinión servirá para ayudar a mejorar el Traductor de Google</div></div><div class="VIpgJd-yAWNEb-hvhgNd-xgov5 ltr"><button id="goog-gt-thumbUpButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Buena traducción" aria-label="Buena traducción" aria-pressed="false"><span id="goog-gt-thumbUpIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7H2v13h16c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM7 18H4V9h3v9zm14-7l-3 7H9V8l4.34-4.34L12 9h9v2z"></path></svg></span><span id="goog-gt-thumbUpIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7v13h11c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM5 7H1v13h4V7z"></path></svg></span></button><button id="goog-gt-thumbDownButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Mala traducción" aria-label="Mala traducción" aria-pressed="false"><span id="goog-gt-thumbDownIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7h5V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zM17 6h3v9h-3V6zM3 13l3-7h9v10l-4.34 4.34L12 15H3v-2z"></path></svg></span><span id="goog-gt-thumbDownIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zm16 0h4V4h-4v13z"></path></svg></span></button></div></div><div id="goog-gt-votingHiddenPane" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><form id="goog-gt-votingForm" action="https://translate.googleapis.com/translate_voting?client=te_lib" method="post" target="votingFrame" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><input type="text" name="sl" id="goog-gt-votingInputSrcLang"><input type="text" name="tl" id="goog-gt-votingInputTrgLang"><input type="text" name="query" id="goog-gt-votingInputSrcText"><input type="text" name="gtrans" id="goog-gt-votingInputTrgText"><input type="text" name="vote" id="goog-gt-votingInputVote"></form><iframe name="votingFrame" frameborder="0"></iframe></div></div></div><iframe allow="join-ad-interest-group" data-tagging-id="G-WT6N5R6W6Z" data-load-time="1745357148929" height="0" width="0" src="cid:frame-86DBEC6B97CE2A1A6A5AD6C6541E331E@mhtml.blink" style="display: none; visibility: hidden;"></iframe></body></html>
+------MultipartBoundary--63hNU4vuJ6rrmcGUwRKAwI387qana3JNzse5qrR0eU----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="24" viewBox="0 0 24 24" width="24"><path d="M0 0h24v24H0z" fill="none"/><defs><path d="M21.5 5h-9.17L11 1H2.5C1.68 1 1 1.68 1 2.5v15c0 .83.68 1.5 1.5 1.5h9.17L13 23h8.5c.82 0 1.5-.68 1.5-1.5v-15c0-.83-.68-1.5-1.5-1.5z" id="a"/></defs><clipPath id="b"><use overflow="visible" xlink:href="#a"/></clipPath><g clip-path="url(#b)"><image height="31" opacity=".2" overflow="visible" transform="translate(3 1)" width="29" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAfCAYAAAAbW8YEAAAACXBIWXMAAAsSAAALEgHS3X78AAAA GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAABQBJREFUeNq8V8tu20YUvXdm+LCk RKiMwI1TFEXhVZJd1gW66xekv9DPqPsvXdU/UaDroJskKy+CInCcGpKtFy2SM/f2DEXZia0odtKW AkFJ8zhzzn3S0Ycvps+79EMDbj3Yfgv4EM+XTN/fEOb3Zg3AXmq7j64D5/e/x/EfzZMnX5jx+LFZ LLyp6yNDOzskYb6RubFdpbdvKUl2Jc+d9PvP5dmzUyH6TVoYXQOq+H5g9vb+cONsO9maLpIyyZPU kZNAppmh9Vpg5kSXwCSVJ5/Vi/r8Tl73y2F9ePidJ3oaga+B4vkUgF+6EW1ndz11gvNdDdL1bDNr yKkCWO16thyUGWIIeae2ZGvn1of5xFExoGF5eHgM4ANZsW032Tf05MjeW+xmNKeedeWAg9tmywPM 6rGYzOAPBSfQ5Ss0Nf4pAmRrSmBP1ehIxQ6DpxF1aXaSH5X0bDcAR1aOxLRPtPdrZrwnd55Sx3gz IMO72OwBq9kmox0RSkHHRNxrRJWFDbQXKpR1xN4eOfx0NqnMdFHulY/rw/1RAE5crEvvffGCvX/E VUoOC3Mm24eaO6TyNZjeB5E+sDLMt2tCqZEW8lcgPSU2x0IhKlAYoTP4xUTueUMvHvJK3ouQ8ffH HP62JpGeg/VSYciqNADbHQxvY5etdr65yhNXlG2B5xjzgWfHJoSeZ5Olbuaq+czQyYSvxal701dJ SWoigRNqXItjORhsC+x74NfDtPQ6aGPkgAUlGROpTKBQR4gbB1x6fjz3/DK8GsoHj/SVG6pJACi+ NhQdApsQJFPCeliYKImgeEJmylc3Xzw5yp9xnIMYMkZt9HjVhK/GeHtqZI5+KUVJXtSVQcwcYDPo FI93jhW+DWSjzZrGts0NQSwOZTFoMaMBaly6CTFZG2KXUt3Z1aQzC36rKrFJ0cgUb6aZRnuRwjtI lo7Eq3CLWSya4eJ7a+TN2eudvClbk17ItFepoQLrpyQyxkZTjBYIiwqnXwF/1mXerQivtu+Hohp7 tf7cWJnCTgBleCQ3bBEaPiaCTRXkNqBLu955o2kv+NzIIogDkGlAEfuwL51DYh9z3sdK1y1ALyX2 FxJLK3Fj339NYnO16P4fEl8J9HUSaytxTHFRYqrhnJ60AZU2lNpDNOULaZH1FqBXJS4LhN8ECeos MgbLWUx3AK+xv4+ZKN6ACxxlZw0xDzdZKj7Z6E1ALyQ+91WNclwgIU6wwRli7xTkzjA8BQCSBxfL +MUhlnGMDMYlfsPuWsdSF4GZa226io1MW4nzPvkQbWgDnIlGYHSCTU+QbOI9BNtTTB7hxmEIh+FT KDJGZoiVpkA6KmNRj90E0duPNmaNxJ29QVh0RxWsOMNRh0JyDIk7LBK1iw62BV1cLKaXpY2n+HWs GkZidOZEysp3fDK4K3TvK90EisGf6bD/k6CTqDpBZt6EoTWcSXQU5mhX1FvNm/XRiyQiaw0XKmDi EXL9kdV6FMMu9kvpyUDoB3SIB5uYxp2+fSr9P7Na7IOipsUpxZ5BqISNTw1rFy6bGrKoIjAbS9uu EKoT2NowqiWJ7cqM0KD9lT8X2t+lKz3S2l4Z/e4v9ptXzcFyn9Zd8nlHHcjXaNZsaCvKqlW6dWP2 Ibr7sdE2e68H9sy+TvN5J6nwydLUvtuWfmoLugH4Zg34JzbbHwO/wavG+68VdJPXihuC/zcvUJ+0 0W2ufwQYAGHKK2CFMIrzAAAAAElFTkSuQmCC"/><radialGradient cx="7.394" cy="5.437" gradientUnits="userSpaceOnUse" id="c" r="23.416"><stop offset="0" stop-color="#EEE"/><stop offset=".432" stop-color="#E6E6E6"/><stop offset="1" stop-color="#E1E1E1"/></radialGradient><path d="M13 23h8.5c.82 0 1.5-.68 1.5-1.5v-15c0-.83-.68-1.5-1.5-1.5H7l6 18z" fill="url(#c)"/></g><path clip-path="url(#b)" d="M18 11v-1h-1v1h-3.75v1h5.32c-.2.49-.6 1.3-1.32 2.14-.51-.6-.86-1.18-1.1-1.64h-1.11c.36.84.9 1.66 1.52 2.38l-2.6 2.58.71.71 2.58-2.58 2.58 2.58.71-.71-2.6-2.58c.74-.86 1.33-1.85 1.68-2.88H21v-1h-3z" fill="#607D8B"/><linearGradient gradientUnits="userSpaceOnUse" id="d" x1="12.333" x2="23" y1="14" y2="14"><stop offset="0" stop-color="#212121" stop-opacity=".1"/><stop offset="1" stop-color="#212121" stop-opacity=".02"/></linearGradient><path clip-path="url(#b)" d="M12.33 5L23 15.67V23H13" fill="url(#d)"/><g clip-path="url(#b)"><image height="8" opacity=".1" overflow="visible" transform="translate(10.5 17.5)" width="9" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAJCAYAAAALpr0TAAAACXBIWXMAAAsSAAALEgHS3X78AAAA GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAOFJREFUeNp0UD1LA0EUnLe7JsJh CiFpLVNYaS3411L7Z/InUpgmqRIRLGxEOEVQsoRcbnecu6AGTB4M72vevjdr+DPDf+Nvs3858q7a Fp4oDOZBJ5dJMCVDzJ2T+LYYpeAyTj39UMNXhA00HABXKy89bY6UlqrFoMHm5QK0a/mbXYxSyyZm eCBTe5Kr68+NGq+Kv4QzoSM8q3ZP8imjXjdEv/6Ysnd+q6a7UN4XFsKYlifbUJXvj3ftytAqM1vJ z6UgGvgiIbN90g8RVddFKZ/pzqX+Y5NDtdonHTI71vgWYADzWmdx/4fpmQAAAABJRU5ErkJggg=="/><path d="M17 19l-4 4-1.33-4" fill="#3F51B5"/></g><path clip-path="url(#b)" d="M21.5 5H7l.04.12H21.5c.82 0 1.5.67 1.5 1.5V6.5c0-.83-.68-1.5-1.5-1.5z" fill="#212121" fill-opacity=".02"/><path clip-path="url(#b)" d="M21.5 22.88H13L11.71 19h-.04L13 23h8.5c.82 0 1.5-.68 1.5-1.5v-.12c0 .82-.68 1.5-1.5 1.5z" fill="#212121" fill-opacity=".1"/><path clip-path="url(#b)" d="M12.97 22.91L13 23l4-4h-.12" fill="#1A237E" fill-opacity=".2"/><path clip-path="url(#b)" d="M11.67 19.12h5.21L17 19h-5.33" fill="#1A237E" fill-opacity=".1"/><g clip-path="url(#b)"><image height="22" opacity=".2" overflow="visible" transform="translate(-.5 -.5)" width="20" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAYAAADk3wSdAAAACXBIWXMAAAsSAAALEgHS3X78AAAA GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAUpJREFUeNqslbFOwzAQQO/sQCRc sqAOlRgrMjCVr+Er+IZ+Ax/WTCwVeyVQl9IOQY2Pc2qhNFwcGsdSrHNsP52fpTPCeUP4X6PQZA2Z Pi41lqXRpCYKtA5tsFBVFdo9penh821ZSWsS112X1hBdPXG44BSyQMaEoHcJ6QJLu+LxrguKQDQB UAuOn3nfLATlqc0psmvuvyQVibfARyaXoQPeh6Hk9Mw4uL2bv3xs31+P7UWq5Rd7LsvN8akg5zBP KTPSIgWXN3OCQo6ARkpiCNQd36maegV6DGgjW1lBJFRWMBQaVDAUGlQwAvSvghhop4IYaKeCkaDn CmKhooJYqKhAtao59VV1od3w99BU4EsfcQVXruBuPBMvgJIv1sdmPSVA3HOhLvy/bCC0qDk8rjP9 TtWB36gVv1Hrvjeq792SjokRF/Z7Fz8CDAC8EmWDKVGDLgAAAABJRU5ErkJggg=="/><path d="M11 1H2.5C1.68 1 1 1.68 1 2.5v15c0 .83.68 1.5 1.5 1.5H17L11 1z" fill="#4285F4"/></g><path clip-path="url(#b)" d="M2.5 1C1.68 1 1 1.68 1 2.5v.12c0-.82.68-1.5 1.5-1.5H11V1H2.5z" fill="#FFF" fill-opacity=".02"/><path clip-path="url(#b)" d="M11 1v.12l5.92 17.75H2.5c-.82 0-1.5-.67-1.5-1.5v.12c0 .84.68 1.51 1.5 1.51H17L11 1z" fill="#212121" fill-opacity=".1"/><g clip-path="url(#b)"><path d="M7.5 10v1.2h1.98c-.08.52-.6 1.51-1.98 1.51-1.2 0-2.17-.99-2.17-2.21S6.3 8.29 7.5 8.29c.68 0 1.13.29 1.39.54l.95-.92C9.24 7.35 8.44 7 7.5 7 5.57 7 4 8.57 4 10.5S5.57 14 7.5 14c2.02 0 3.36-1.42 3.36-3.42 0-.23-.02-.41-.06-.58H7.5z" fill="#EEE"/><path d="M4 7h7v7H4z" fill="none"/></g><radialGradient cx="1.457" cy="1.42" gradientUnits="userSpaceOnUse" id="e" r="29.792"><stop offset="0" stop-color="#FFF" stop-opacity=".1"/><stop offset="1" stop-color="#FFF" stop-opacity="0"/></radialGradient><path d="M21.5 5h-9.17L11 1H2.5C1.68 1 1 1.68 1 2.5v15c0 .83.68 1.5 1.5 1.5h9.17L13 23h8.5c.82 0 1.5-.68 1.5-1.5v-15c0-.83-.68-1.5-1.5-1.5z" fill="url(#e)"/></svg>
+------MultipartBoundary--63hNU4vuJ6rrmcGUwRKAwI387qana3JNzse5qrR0eU----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://emn178.github.io/online-tools/images/copy.svg
+
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <rect stroke-width="2" rx="1" height="20" width="15" y="3" x="12" stroke="#9ca3af" fill="#fff"/>
+  <rect stroke-width="2" rx="1" height="20" width="15" y="9" x="6" stroke="#9ca3af" fill="#fff"/>
+ </g>
+</svg>
+
+------MultipartBoundary--63hNU4vuJ6rrmcGUwRKAwI387qana3JNzse5qrR0eU----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://emn178.github.io/online-tools/images/fullscreen-exit.svg
+
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <line stroke-width="4" y2="39.12476" x2="25.75002" y1="39.12476" x1="8.75002" stroke="#9ca3af" fill="none"/>
+   <line y2="53.49976" x2="23.75002" y1="40.49976" x1="23.75002" stroke-width="4" stroke="#9ca3af" fill="none"/>
+   <path transform="rotate(-45 13.5537 49.3035)" d="m0.04272,49.30349l27.02201,0" opacity="undefined" stroke-width="4" stroke="#9ca3af" fill="none"/>
+  </g>
+  <g transform="rotate(-180 48.875 15.8662)">
+   <line stroke-width="4" y2="6" x2="59.75" y1="6" x1="42.75" stroke="#9ca3af" fill="none"/>
+   <line y2="20.375" x2="57.75" y1="7.375" x1="57.75" stroke-width="4" stroke="#9ca3af" fill="none"/>
+   <path transform="rotate(-45 47.5537 16.1787)" d="m34.0427,16.17873l27.02201,0" opacity="undefined" stroke-width="4" stroke="#9ca3af" fill="none"/>
+  </g>
+ </g>
+</svg>
+
+------MultipartBoundary--63hNU4vuJ6rrmcGUwRKAwI387qana3JNzse5qrR0eU----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://emn178.github.io/online-tools/images/fullscreen.svg
+
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g>
+   <line stroke-width="4" y2="5.625" x2="60" y1="5.625" x1="43" stroke="#9ca3af" fill="none"/>
+   <line y2="20" x2="58" y1="7" x1="58" stroke-width="4" stroke="#9ca3af" fill="none"/>
+   <path transform="rotate(-45 47.8037 15.8037)" d="m34.2927,15.80373l27.02201,0" opacity="undefined" stroke-width="4" stroke="#9ca3af" fill="none"/>
+  </g>
+  <g transform="rotate(-180 14.875 48.8662)">
+   <line stroke-width="4" y2="39" x2="25.75" y1="39" x1="8.75" stroke="#9ca3af" fill="none"/>
+   <line y2="53.375" x2="23.75" y1="40.375" x1="23.75" stroke-width="4" stroke="#9ca3af" fill="none"/>
+   <path transform="rotate(-45 13.5537 49.1787)" d="m0.0427,49.17873l27.02201,0" opacity="undefined" stroke-width="4" stroke="#9ca3af" fill="none"/>
+  </g>
+ </g>
+</svg>
+
+------MultipartBoundary--63hNU4vuJ6rrmcGUwRKAwI387qana3JNzse5qrR0eU----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://emn178.github.io/online-tools/images/menu.svg
+
+<svg viewBox="0 0 24 24" fill="#9ca3af" xmlns="http://www.w3.org/2000/svg"><rect x="4" y="5" width="16" height="2"></rect><rect x="4" y="11" width="16" height="2"></rect><rect x="4" y="17" width="16" height="2"></rect></svg>
+
+------MultipartBoundary--63hNU4vuJ6rrmcGUwRKAwI387qana3JNzse5qrR0eU----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://emn178.github.io/online-tools/images/dark.svg
+
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="#9ca3af"><path d="M11.875 4.375a.625.625 0 1 0 1.25 0c.001-.69.56-1.249 1.25-1.25a.625.625 0 1 0 0-1.25 1.252 1.252 0 0 1-1.25-1.25.625.625 0 1 0-1.25 0 1.252 1.252 0 0 1-1.25 1.25.625.625 0 1 0 0 1.25c.69.001 1.249.56 1.25 1.25Z"></path><path d="M7.019 1.985a1.55 1.55 0 0 0-.483-1.36 1.44 1.44 0 0 0-1.53-.277C2.056 1.553 0 4.5 0 7.9 0 12.352 3.648 16 8.1 16c3.407 0 6.246-2.058 7.51-4.963a1.446 1.446 0 0 0-.25-1.55 1.554 1.554 0 0 0-1.372-.502c-4.01.552-7.539-2.987-6.97-7ZM2 7.9C2 5.64 3.193 3.664 4.961 2.6 4.82 7.245 8.72 11.158 13.36 11.04 12.265 12.822 10.341 14 8.1 14 4.752 14 2 11.248 2 7.9Z"></path></svg>
+
+------MultipartBoundary--63hNU4vuJ6rrmcGUwRKAwI387qana3JNzse5qrR0eU----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://emn178.github.io/online-tools/images/light.svg
+
+<svg  width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="#9ca3af"><path d="M8 0a1 1 0 0 1 1 1v.5a1 1 0 1 1-2 0V1a1 1 0 0 1 1-1Z"></path><path d="M12 8a4 4 0 1 1-8 0 4 4 0 0 1 8 0Zm-4 2a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"></path><path d="M13.657 3.757a1 1 0 0 0-1.414-1.414l-.354.354a1 1 0 0 0 1.414 1.414l.354-.354ZM13.5 8a1 1 0 0 1 1-1h.5a1 1 0 1 1 0 2h-.5a1 1 0 0 1-1-1ZM13.303 11.889a1 1 0 0 0-1.414 1.414l.354.354a1 1 0 0 0 1.414-1.414l-.354-.354ZM8 13.5a1 1 0 0 1 1 1v.5a1 1 0 1 1-2 0v-.5a1 1 0 0 1 1-1ZM4.111 13.303a1 1 0 1 0-1.414-1.414l-.354.354a1 1 0 1 0 1.414 1.414l.354-.354ZM0 8a1 1 0 0 1 1-1h.5a1 1 0 0 1 0 2H1a1 1 0 0 1-1-1ZM3.757 2.343a1 1 0 1 0-1.414 1.414l.354.354A1 1 0 1 0 4.11 2.697l-.354-.354Z"></path></svg>
+
+------MultipartBoundary--63hNU4vuJ6rrmcGUwRKAwI387qana3JNzse5qrR0eU----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://emn178.github.io/online-tools/images/logo.svg
+
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="512.000000pt" height="512.000000pt" viewBox="0 0 512.000000 512.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
+fill="#49b1f5" stroke="none">
+<path d="M2405 5019 c-68 -23 -164 -65 -219 -98 -69 -40 -65 -44 53 -55 195
+-19 391 -108 530 -240 145 -138 213 -295 233 -535 l10 -136 97 -98 96 -97
+-315 -315 -315 -315 173 -172 172 -173 313 313 c171 171 317 312 322 312 5 0
+182 -172 392 -382 l382 -382 178 172 c98 94 259 252 358 352 l180 182 -627
+622 -628 621 -87 34 c-543 207 -608 230 -863 312 -257 83 -362 101 -435 78z"/>
+<path d="M980 4773 c-104 -18 -170 -56 -170 -98 0 -35 13 -50 340 -398 113
+-120 206 -222 208 -227 2 -5 -36 -83 -84 -172 l-87 -163 -147 -88 c-81 -48
+-149 -87 -152 -87 -3 0 -85 87 -183 193 -389 421 -399 429 -443 373 -50 -65
+-72 -373 -37 -541 81 -391 344 -680 706 -776 103 -28 285 -31 394 -7 39 9 81
+19 95 22 23 5 104 -81 835 -869 l810 -874 -4 -111 c-13 -422 195 -755 551
+-877 62 -21 93 -25 208 -26 152 -2 207 8 317 58 224 103 381 297 454 561 19
+68 21 97 17 233 -4 143 -7 164 -37 251 -45 134 -110 239 -207 335 -164 163
+-337 230 -579 223 l-119 -3 -335 360 c-184 198 -550 592 -814 875 -425 457
+-478 517 -473 540 33 144 38 191 33 335 -5 162 -15 212 -72 361 -108 280 -365
+511 -649 584 -62 16 -108 20 -215 19 -75 -1 -147 -4 -161 -6z m2980 -3579 c96
+-34 127 -50 139 -72 11 -21 66 -231 76 -288 6 -41 6 -41 -98 -155 -107 -118
+-171 -179 -187 -179 -14 0 -252 81 -282 96 -29 15 -44 55 -94 252 -21 83 -22
+97 -10 120 18 35 180 212 229 250 37 30 38 30 95 17 31 -8 91 -26 132 -41z"/>
+<path d="M974 1507 c-829 -842 -841 -855 -850 -903 -13 -68 9 -107 129 -231
+146 -152 176 -173 239 -173 27 0 61 6 77 14 23 13 1531 1526 1539 1545 1 3
+-98 106 -220 228 l-223 222 -691 -702z"/>
+</g>
+</svg>
+
+------MultipartBoundary--63hNU4vuJ6rrmcGUwRKAwI387qana3JNzse5qrR0eU----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.NJgGN_yGIWM.L.W.O/am=AAY/d=0/rs=AN8SPfrTSMIvWAFISYN4u74dPJrX0HgUsw/m=el_main_css
+
+@charset "utf-8";
+
+.VIpgJd-ZVi9od-ORHb-OEVmcd { left: 0px; top: 0px; height: 39px; width: 100%; z-index: 10000001; position: fixed; border-top: none; border-right: none; border-left: none; border-image: initial; border-bottom: 1px solid rgb(107, 144, 218); margin: 0px; box-shadow: rgb(153, 153, 153) 0px 0px 8px 1px; }
+
+.VIpgJd-ZVi9od-xl07Ob-OEVmcd { z-index: 10000002; border: none; position: fixed; box-shadow: rgb(153, 153, 153) 0px 3px 8px 2px; }
+
+.VIpgJd-ZVi9od-SmfZ-OEVmcd { z-index: 10000000; border: none; margin: 0px; }
+
+.goog-te-gadget { font-family: arial; font-size: 11px; color: rgb(102, 102, 102); white-space: nowrap; }
+
+.goog-te-gadget img { vertical-align: middle; border: none; }
+
+.goog-te-gadget-simple { background-color: rgb(255, 255, 255); border-width: 1px; border-style: solid; border-color: rgb(155, 155, 155) rgb(213, 213, 213) rgb(232, 232, 232); font-size: 10pt; display: inline-block; padding-top: 1px; padding-bottom: 2px; cursor: pointer; }
+
+.goog-te-gadget-icon { margin-left: 2px; margin-right: 2px; width: 19px; height: 19px; border: none; vertical-align: middle; }
+
+.goog-te-combo { margin-left: 4px; margin-right: 4px; vertical-align: baseline; }
+
+.goog-te-gadget .goog-te-combo { margin: 4px 0px; }
+
+.VIpgJd-ZVi9od-l4eHX-hSRGPd, .VIpgJd-ZVi9od-l4eHX-hSRGPd:link, .VIpgJd-ZVi9od-l4eHX-hSRGPd:visited, .VIpgJd-ZVi9od-l4eHX-hSRGPd:hover, .VIpgJd-ZVi9od-l4eHX-hSRGPd:active { font-size: 12px; font-weight: bold; color: rgb(68, 68, 68); text-decoration: none; }
+
+.VIpgJd-ZVi9od-ORHb .VIpgJd-ZVi9od-l4eHX-hSRGPd, .VIpgJd-ZVi9od-TvD9Pc-hSRGPd { display: block; margin: 0px 10px; }
+
+.VIpgJd-ZVi9od-ORHb .VIpgJd-ZVi9od-l4eHX-hSRGPd { padding-top: 2px; padding-left: 4px; }
+
+.goog-te-combo, .VIpgJd-ZVi9od-ORHb *, .VIpgJd-ZVi9od-SmfZ *, .VIpgJd-ZVi9od-xl07Ob *, .VIpgJd-ZVi9od-vH1Gmf *, .VIpgJd-ZVi9od-l9xktf * { font-family: arial; font-size: 10pt; }
+
+.VIpgJd-ZVi9od-ORHb { margin: 0px; background-color: rgb(228, 239, 251); overflow: hidden; }
+
+.VIpgJd-ZVi9od-ORHb img { border: none; }
+
+.VIpgJd-ZVi9od-ORHb-bN97Pc { color: rgb(0, 0, 0); }
+
+.VIpgJd-ZVi9od-ORHb-bN97Pc img { vertical-align: middle; }
+
+.VIpgJd-ZVi9od-ORHb-Tswv1b { color: rgb(102, 102, 102); vertical-align: top; margin-top: 0px; font-size: 7pt; }
+
+.VIpgJd-ZVi9od-ORHb-KE6vqe { width: 8px; }
+
+.VIpgJd-ZVi9od-LgbsSe { border-color: rgb(231, 231, 231); border-style: none solid solid none; border-width: 0px 1px 1px 0px; }
+
+.VIpgJd-ZVi9od-LgbsSe div { border-color: rgb(204, 204, 204) rgb(153, 153, 153) rgb(153, 153, 153) rgb(204, 204, 204); border-style: solid; border-width: 1px; height: 20px; }
+
+.VIpgJd-ZVi9od-LgbsSe button { background: transparent; border: none; cursor: pointer; height: 20px; overflow: hidden; margin: 0px; vertical-align: top; white-space: nowrap; }
+
+.VIpgJd-ZVi9od-LgbsSe button:active { background: none 0px 0px repeat scroll rgb(204, 204, 204); }
+
+.VIpgJd-ZVi9od-SmfZ { margin: 0px; background-color: rgb(255, 255, 255); white-space: nowrap; }
+
+.VIpgJd-ZVi9od-SmfZ-hSRGPd { text-decoration: none; font-weight: bold; font-size: 10pt; border: 1px outset rgb(136, 136, 136); padding: 6px 10px; white-space: nowrap; position: absolute; left: 0px; top: 0px; }
+
+.VIpgJd-ZVi9od-SmfZ-hSRGPd img { margin-left: 2px; margin-right: 2px; width: 19px; height: 19px; border: none; vertical-align: middle; }
+
+.VIpgJd-ZVi9od-SmfZ-hSRGPd span { text-decoration: underline; margin-left: 2px; margin-right: 2px; vertical-align: middle; }
+
+.goog-te-float-top .VIpgJd-ZVi9od-SmfZ-hSRGPd { padding: 2px; border-top-width: 0px; }
+
+.goog-te-float-bottom .VIpgJd-ZVi9od-SmfZ-hSRGPd { padding: 2px; border-bottom-width: 0px; }
+
+.VIpgJd-ZVi9od-xl07Ob-lTBxed { text-decoration: none; color: rgb(0, 0, 204); white-space: nowrap; margin-left: 4px; margin-right: 4px; }
+
+.VIpgJd-ZVi9od-xl07Ob-lTBxed span { text-decoration: underline; }
+
+.VIpgJd-ZVi9od-xl07Ob-lTBxed img { margin-left: 2px; margin-right: 2px; }
+
+.goog-te-gadget-simple .VIpgJd-ZVi9od-xl07Ob-lTBxed { color: rgb(0, 0, 0); }
+
+.goog-te-gadget-simple .VIpgJd-ZVi9od-xl07Ob-lTBxed span { text-decoration: none; }
+
+.VIpgJd-ZVi9od-xl07Ob { background-color: rgb(255, 255, 255); text-decoration: none; border: 2px solid rgb(195, 217, 255); overflow: hidden scroll; position: absolute; left: 0px; top: 0px; }
+
+.VIpgJd-ZVi9od-xl07Ob-ibnC6b { padding: 3px; text-decoration: none; }
+
+.VIpgJd-ZVi9od-xl07Ob-ibnC6b, .VIpgJd-ZVi9od-xl07Ob-ibnC6b:link { color: rgb(0, 0, 204); background: rgb(255, 255, 255); }
+
+.VIpgJd-ZVi9od-xl07Ob-ibnC6b:visited { color: rgb(85, 26, 139); }
+
+.VIpgJd-ZVi9od-xl07Ob-ibnC6b:hover { background: rgb(195, 217, 255); }
+
+.VIpgJd-ZVi9od-xl07Ob-ibnC6b:active { color: rgb(0, 0, 204); }
+
+.VIpgJd-ZVi9od-vH1Gmf { background-color: rgb(255, 255, 255); text-decoration: none; border: 1px solid rgb(107, 144, 218); overflow: hidden; padding: 4px; }
+
+.VIpgJd-ZVi9od-vH1Gmf-KrhPNb { width: 16px; }
+
+.VIpgJd-ZVi9od-vH1Gmf-hgDUwe { margin: 6px 0px; height: 1px; background-color: rgb(170, 170, 170); overflow: hidden; }
+
+.VIpgJd-ZVi9od-vH1Gmf-ibnC6b div, .VIpgJd-ZVi9od-vH1Gmf-ibnC6b-gk6SMd div { padding: 4px; }
+
+.VIpgJd-ZVi9od-vH1Gmf-ibnC6b .uDEFge { display: none; }
+
+.VIpgJd-ZVi9od-vH1Gmf-ibnC6b-gk6SMd .uDEFge { }
+
+.VIpgJd-ZVi9od-vH1Gmf-ibnC6b-gk6SMd .fmcmS { padding-left: 4px; padding-right: 4px; }
+
+.VIpgJd-ZVi9od-vH1Gmf-ibnC6b, .VIpgJd-ZVi9od-vH1Gmf-ibnC6b-gk6SMd { text-decoration: none; }
+
+.VIpgJd-ZVi9od-vH1Gmf-ibnC6b div, .VIpgJd-ZVi9od-vH1Gmf-ibnC6b:link div, .VIpgJd-ZVi9od-vH1Gmf-ibnC6b:visited div, .VIpgJd-ZVi9od-vH1Gmf-ibnC6b:active div { color: rgb(0, 0, 204); background: rgb(255, 255, 255); }
+
+.VIpgJd-ZVi9od-vH1Gmf-ibnC6b:hover div { color: rgb(255, 255, 255); background: rgb(51, 102, 204); }
+
+.VIpgJd-ZVi9od-vH1Gmf-ibnC6b-gk6SMd div, .VIpgJd-ZVi9od-vH1Gmf-ibnC6b-gk6SMd:link div, .VIpgJd-ZVi9od-vH1Gmf-ibnC6b-gk6SMd:visited div, .VIpgJd-ZVi9od-vH1Gmf-ibnC6b-gk6SMd:hover div, .VIpgJd-ZVi9od-vH1Gmf-ibnC6b-gk6SMd:active div { color: rgb(0, 0, 0); font-weight: bold; }
+
+.VIpgJd-ZVi9od-l9xktf { background-color: rgb(255, 255, 255); overflow: hidden; padding: 8px; border: none; border-radius: 10px; }
+
+.VIpgJd-ZVi9od-l9xktf-OEVmcd { background-color: rgb(255, 255, 255); border: 1px solid rgb(107, 144, 218); box-shadow: rgb(153, 153, 153) 0px 3px 8px 2px; border-radius: 8px; }
+
+.VIpgJd-ZVi9od-l9xktf img { border: none; }
+
+.VIpgJd-ZVi9od-l9xktf-fmcmS { margin-top: 6px; }
+
+.VIpgJd-ZVi9od-l9xktf-VgwJlc { margin-top: 6px; white-space: nowrap; }
+
+.VIpgJd-ZVi9od-l9xktf-VgwJlc * { vertical-align: middle; }
+
+.VIpgJd-ZVi9od-l9xktf-VgwJlc .DUGJie { background-image: url("https://www&google.com/images/zippy_minus_sm.gif"); }
+
+.VIpgJd-ZVi9od-l9xktf-VgwJlc .TdyTDe { background-image: url("https://www&google.com/images/zippy_plus_sm.gif"); }
+
+.VIpgJd-ZVi9od-l9xktf-VgwJlc span { color: rgb(0, 0, 204); text-decoration: underline; cursor: pointer; margin: 0px 4px; }
+
+.VIpgJd-ZVi9od-l9xktf-I9GLp { margin: 6px 0px 0px; }
+
+.VIpgJd-ZVi9od-l9xktf-I9GLp form { margin: 0px; }
+
+.VIpgJd-ZVi9od-l9xktf-I9GLp form textarea { margin-bottom: 4px; width: 100%; }
+
+.VIpgJd-ZVi9od-l9xktf-yePe5c { margin: 6px 0px 4px; }
+
+.VIpgJd-ZVi9od-aZ2wEe-wOHMyf { z-index: 1000; position: fixed; transition-delay: 0.6s; left: -1000px; top: -1000px; }
+
+.VIpgJd-ZVi9od-aZ2wEe-wOHMyf-ti6hGc { transition-delay: 0s; left: -14px; top: -14px; }
+
+.VIpgJd-ZVi9od-aZ2wEe-OiiCO { display: flex; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; width: 104px; height: 104px; border-radius: 50px; background: url("https://www.gstatic.com/images/branding/product/2x/translate_24dp.png") 50% 50% no-repeat rgb(255, 255, 255); transition: 0.6s ease-in-out; transform: scale(0.4); opacity: 0; }
+
+.VIpgJd-ZVi9od-aZ2wEe-OiiCO-ti6hGc { transform: scale(0.5); opacity: 1; }
+
+.VIpgJd-ZVi9od-aZ2wEe { margin: 2px 0px 0px 2px; animation: 1.4s linear 0s infinite normal none running spinner-rotator; }
+
+@-webkit-keyframes spinner-rotator { 
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(270deg); }
+}
+
+@keyframes spinner-rotator { 
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(270deg); }
+}
+
+.VIpgJd-ZVi9od-aZ2wEe-Jt5cK { stroke-dasharray: 187; stroke-dashoffset: 0; stroke: rgb(66, 133, 244); transform-origin: center center; animation: 1.4s ease-in-out 0s infinite normal none running spinner-dash; }
+
+@-webkit-keyframes spinner-dash { 
+  0% { stroke-dashoffset: 187; }
+  50% { stroke-dashoffset: 46.75; transform: rotate(135deg); }
+  100% { stroke-dashoffset: 187; transform: rotate(450deg); }
+}
+
+@keyframes spinner-dash { 
+  0% { stroke-dashoffset: 187; }
+  50% { stroke-dashoffset: 46.75; transform: rotate(135deg); }
+  100% { stroke-dashoffset: 187; transform: rotate(450deg); }
+}
+
+.VIpgJd-yAWNEb-L7lbkb html, .VIpgJd-yAWNEb-L7lbkb body, .VIpgJd-yAWNEb-L7lbkb div, .VIpgJd-yAWNEb-L7lbkb span, .VIpgJd-yAWNEb-L7lbkb iframe, .VIpgJd-yAWNEb-L7lbkb h1, .VIpgJd-yAWNEb-L7lbkb h2, .VIpgJd-yAWNEb-L7lbkb h3, .VIpgJd-yAWNEb-L7lbkb h4, .VIpgJd-yAWNEb-L7lbkb h5, .VIpgJd-yAWNEb-L7lbkb h6, .VIpgJd-yAWNEb-L7lbkb p, .VIpgJd-yAWNEb-L7lbkb a, .VIpgJd-yAWNEb-L7lbkb img, .VIpgJd-yAWNEb-L7lbkb ol, .VIpgJd-yAWNEb-L7lbkb ul, .VIpgJd-yAWNEb-L7lbkb li, .VIpgJd-yAWNEb-L7lbkb table, .VIpgJd-yAWNEb-L7lbkb form, .VIpgJd-yAWNEb-L7lbkb tbody, .VIpgJd-yAWNEb-L7lbkb tr, .VIpgJd-yAWNEb-L7lbkb td { margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-family: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-size: 100%; vertical-align: baseline; text-align: left; line-height: normal; }
+
+.VIpgJd-yAWNEb-L7lbkb ol, .VIpgJd-yAWNEb-L7lbkb ul { list-style: none; }
+
+.VIpgJd-yAWNEb-L7lbkb table { border-collapse: collapse; border-spacing: 0px; }
+
+.VIpgJd-yAWNEb-L7lbkb caption, .VIpgJd-yAWNEb-L7lbkb th, .VIpgJd-yAWNEb-L7lbkb td { text-align: left; font-weight: normal; }
+
+div > .VIpgJd-yAWNEb-L7lbkb { padding: 10px 14px; }
+
+.VIpgJd-yAWNEb-L7lbkb { color: rgb(34, 34, 34); background-color: rgb(255, 255, 255); border: 1px solid rgb(238, 238, 238); box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 16px; display: none; font-family: arial; font-size: 10pt; width: 420px; padding: 12px; position: absolute; z-index: 10000; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-nVMfcd-fmcmS, .VIpgJd-yAWNEb-yAWNEb-Vy2Aqc-pbTTYe { clear: both; font-size: 10pt; position: relative; text-align: justify; width: 100%; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-r4nke { color: rgb(153, 153, 153); font-family: arial, sans-serif; margin: 4px 0px; text-align: left; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-TvD9Pc-LgbsSe { display: none; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-l4eHX { float: left; margin: 0px; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-Z0Arqf-PLDbbf { display: inline-block; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-fw42Ze-Z0Arqf-haAclf { display: none; width: 100%; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-Z0Arqf-H9tDt { margin-top: 20px; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-LK5yu { float: left; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-qwU8Me { float: right; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-cGMI2b { min-height: 15px; position: relative; height: 1%; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-jOfkMb-Ne3sFf { background: rgb(41, 145, 13); border-radius: 4px; box-shadow: rgb(30, 102, 9) 0px 2px 2px inset; color: white; font-size: 9pt; font-weight: bolder; margin-top: 12px; padding: 6px; text-shadow: rgb(30, 102, 9) 1px 1px 1px; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-Z0Arqf-hSRGPd { color: rgb(17, 85, 204); cursor: pointer; font-family: arial; font-size: 11px; margin-right: 15px; text-decoration: none; }
+
+.VIpgJd-yAWNEb-L7lbkb > textarea { font-family: arial; resize: vertical; width: 100%; margin-bottom: 10px; border-radius: 1px; border-width: 1px; border-style: solid; border-color: silver rgb(217, 217, 217) rgb(217, 217, 217); border-image: initial; font-size: 13px; height: auto; overflow-y: auto; padding: 1px; }
+
+.VIpgJd-yAWNEb-L7lbkb textarea:focus { box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 2px inset; border: 1px solid rgb(77, 144, 254); outline: none; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-Z0Arqf-IbE0S { margin-right: 10px; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp { min-height: 25px; vertical-align: middle; padding-top: 8px; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp { margin-bottom: 0px; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input { display: inline-block; min-width: 54px; border: 1px solid rgba(0, 0, 0, 0.1); text-align: center; color: rgb(68, 68, 68); font-size: 11px; font-weight: bold; height: 27px; outline: 0px; padding: 0px 8px; vertical-align: middle; line-height: 27px; margin: 0px 16px 0px 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px; border-radius: 2px; transition: 0.218s; background-color: rgb(245, 245, 245); background-image: -webkit-linear-gradient(top, rgb(245, 245, 245), rgb(241, 241, 241)); user-select: none; cursor: default; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input:hover { border: 1px solid rgb(198, 198, 198); color: rgb(34, 34, 34); transition: all; background-color: rgb(248, 248, 248); background-image: -webkit-linear-gradient(top, rgb(248, 248, 248), rgb(241, 241, 241)); }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input:active { border: 1px solid rgb(198, 198, 198); color: rgb(51, 51, 51); background-color: rgb(246, 246, 246); background-image: -webkit-linear-gradient(top, rgb(246, 246, 246), rgb(241, 241, 241)); }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input:focus .VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input.AHmuwe .VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input:active, .VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input:focus:active { box-shadow: rgba(255, 255, 255, 0.5) 0px 0px 0px 1px inset; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input:focus, .VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input.AHmuwe { outline: none; border: 1px solid rgb(77, 144, 254); z-index: 4 !important; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input.gk6SMd { background-color: rgb(238, 238, 238); background-image: -webkit-linear-gradient(top, rgb(238, 238, 238), rgb(224, 224, 224)); box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px inset; border: 1px solid rgb(204, 204, 204); color: rgb(51, 51, 51); }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input .VIpgJd-yAWNEb-Z0Arqf-sFeBqf { color: white; border-color: rgb(48, 121, 237); background-color: rgb(77, 144, 254); background-image: -webkit-linear-gradient(top, rgb(77, 144, 254), rgb(71, 135, 237)); }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input .VIpgJd-yAWNEb-Z0Arqf-sFeBqf:hover .VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input .VIpgJd-yAWNEb-Z0Arqf-sFeBqf:focus, .VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input .VIpgJd-yAWNEb-Z0Arqf-sFeBqf.AHmuwe .VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input .VIpgJd-yAWNEb-Z0Arqf-sFeBqf:active { border-color: rgb(48, 121, 237); background-color: rgb(53, 122, 232); background-image: -webkit-linear-gradient(top, rgb(77, 144, 254), rgb(53, 122, 232)); }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input .VIpgJd-yAWNEb-Z0Arqf-sFeBqf:hover { box-shadow: rgb(255, 255, 255) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.1) 0px 1px 1px; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input:focus, .VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input.AHmuwe, .VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input:active, .VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input:hover, .VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input .VIpgJd-yAWNEb-Z0Arqf-sFeBqf:focus, .VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input .VIpgJd-yAWNEb-Z0Arqf-sFeBqf.AHmuwe, .VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input .VIpgJd-yAWNEb-Z0Arqf-sFeBqf:active, .VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-L4Nn5e-I9GLp .VIpgJd-yAWNEb-Z0Arqf-I9GLp input .VIpgJd-yAWNEb-Z0Arqf-sFeBqf:hover { border-color: rgb(48, 121, 237); }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-mrxPge { color: rgb(153, 153, 153); font-family: arial, sans-serif; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-IFdKyd-W0vJo-fmcmS { color: rgb(153, 153, 153); font-size: 11px; font-family: arial, sans-serif; margin: 15px 0px 5px; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-IFdKyd-u0pjoe-fmcmS { color: rgb(136, 0, 0); display: none; font-size: 9pt; }
+
+.VIpgJd-yAWNEb-VIpgJd-fmcmS-sn54Q { background-color: rgb(201, 215, 241); box-shadow: rgb(153, 153, 170) 2px 2px 4px; box-sizing: border-box; position: relative; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-IFdKyd-xl07Ob .VIpgJd-yAWNEb-VIpgJd-xl07Ob { background: rgb(255, 255, 255); border: 1px solid rgb(221, 221, 221); box-shadow: rgb(153, 153, 170) 0px 2px 4px; min-width: 0px; outline: none; padding: 0px; position: absolute; z-index: 2000; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-IFdKyd-xl07Ob .VIpgJd-yAWNEb-VIpgJd-j7LFlb { cursor: pointer; padding: 2px 5px 5px; margin-right: 0px; border-style: none; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-IFdKyd-xl07Ob .VIpgJd-yAWNEb-VIpgJd-j7LFlb:hover { background: rgb(221, 221, 221); }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-IFdKyd-xl07Ob .VIpgJd-yAWNEb-VIpgJd-j7LFlb h1 { font-size: 100%; font-weight: bold; margin: 4px 0px; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-IFdKyd-xl07Ob .VIpgJd-yAWNEb-VIpgJd-j7LFlb strong { color: rgb(52, 90, 173); }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-VIpgJd-eKm5Fc-hFsbo { text-align: right; position: absolute; right: 0px; left: auto; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-VIpgJd-j7LFlb-SIsrTd .VIpgJd-yAWNEb-VIpgJd-eKm5Fc-hFsbo { text-align: left; position: absolute; left: 0px; right: auto; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-yAWNEb-Vy2Aqc-fmcmS, .VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-TVLw9c-ppHlrf-sn54Q { background-color: rgb(241, 234, 0); border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.5) 3px 3px 4px; box-sizing: border-box; color: rgb(241, 234, 0); cursor: pointer; margin: -2px -2px -2px -3px; padding: 2px 2px 2px 3px; position: relative; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-TVLw9c-ppHlrf-sn54Q { color: rgb(34, 34, 34); }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-yAWNEb-Vy2Aqc-pbTTYe { color: white; position: absolute !important; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-TVLw9c-ppHlrf, .VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-TVLw9c-ppHlrf .VIpgJd-yAWNEb-TVLw9c-ppHlrf-sn54Q { background-color: rgb(201, 215, 241); border-radius: 4px 4px 0px 0px; box-shadow: rgba(0, 0, 0, 0.5) 3px 3px 4px; box-sizing: border-box; cursor: pointer; margin: -2px -2px -2px -3px; padding: 2px 2px 3px 3px; position: relative; }
+
+.VIpgJd-yAWNEb-L7lbkb span:focus { outline: none; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-TVLw9c-DyVDA { background-color: transparent; border: 1px solid rgb(77, 144, 254); border-radius: 0px; margin: -2px; padding: 1px; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-yAWNEb-TVLw9c-sn54Q-LzX3ef { border-left: 2px solid red; margin-left: -2px; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-yAWNEb-TVLw9c-sn54Q-YIAiIb { border-right: 2px solid red; margin-right: -2px; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-IFdKyd-YPqjbf { padding: 2px; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-IFdKyd-YPqjbf-fmcmS { font-size: 11px; padding: 2px 2px 3px; margin: 0px; background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); border-width: 1px; border-style: solid; border-color: rgb(192, 192, 192) rgb(217, 217, 217) rgb(217, 217, 217); border-image: initial; display: inline-block; vertical-align: top; height: 21px; box-sizing: border-box; border-radius: 1px; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-IFdKyd-YPqjbf-fmcmS:hover { border-width: 1px; border-style: solid; border-color: rgb(160, 160, 160) rgb(185, 185, 185) rgb(185, 185, 185); border-image: initial; box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px inset; }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-IFdKyd-YPqjbf-fmcmS:focus { box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 2px inset; outline: none; border: 1px solid rgb(77, 144, 254); }
+
+.VIpgJd-yAWNEb-L7lbkb .VIpgJd-yAWNEb-IFdKyd-YPqjbf-sFeBqf { font-size: 11px; padding: 2px 6px 3px; margin: 0px 0px 0px 2px; height: 21px; }
+
+.VIpgJd-yAWNEb-hvhgNd { font-family: "Google Sans", Arial, sans-serif; }
+
+.VIpgJd-yAWNEb-hvhgNd .VIpgJd-yAWNEb-hvhgNd-l4eHX-i3jM8c { position: absolute; top: 10px; left: 14px; }
+
+.VIpgJd-yAWNEb-hvhgNd .VIpgJd-yAWNEb-hvhgNd-l4eHX-SIsrTd { position: absolute; top: 10px; right: 14px; }
+
+.VIpgJd-yAWNEb-hvhgNd .VIpgJd-yAWNEb-hvhgNd-k77Iif-i3jM8c, .VIpgJd-yAWNEb-hvhgNd .VIpgJd-yAWNEb-hvhgNd-k77Iif-SIsrTd { margin: 16px; padding: 0px; }
+
+.VIpgJd-yAWNEb-hvhgNd .VIpgJd-yAWNEb-hvhgNd-IuizWc { margin: 0px 0px 0px 36px; padding: 0px; color: rgb(116, 119, 117); font-size: 14px; font-weight: 500; }
+
+.VIpgJd-yAWNEb-hvhgNd .VIpgJd-yAWNEb-hvhgNd-k77Iif-SIsrTd .VIpgJd-yAWNEb-hvhgNd-IuizWc { text-align: right; margin: 0px 36px 0px 0px; }
+
+.VIpgJd-yAWNEb-hvhgNd .VIpgJd-yAWNEb-hvhgNd-axAV1 { width: auto; padding: 12px 0px 0px; color: rgb(31, 31, 31); font-size: 16px; text-align: initial; }
+
+.VIpgJd-yAWNEb-hvhgNd .VIpgJd-yAWNEb-hvhgNd-axAV1 .VIpgJd-yAWNEb-SIsrTd { text-align: right; }
+
+.VIpgJd-yAWNEb-hvhgNd .VIpgJd-yAWNEb-hvhgNd-N7Eqid { border-radius: 0px 0px 12px 12px; margin: 0px; background: rgb(241, 244, 249); position: relative; min-height: 50px; }
+
+.VIpgJd-yAWNEb-hvhgNd .VIpgJd-yAWNEb-hvhgNd-N7Eqid .VIpgJd-yAWNEb-SIsrTd { text-align: right; }
+
+.VIpgJd-yAWNEb-hvhgNd .VIpgJd-yAWNEb-hvhgNd-N7Eqid-B7I4Od { display: inline-block; width: 77%; padding: 12px; }
+
+.VIpgJd-yAWNEb-hvhgNd .VIpgJd-yAWNEb-hvhgNd-N7Eqid-B7I4Od .VIpgJd-yAWNEb-SIsrTd { text-align: right; }
+
+.VIpgJd-yAWNEb-hvhgNd .VIpgJd-yAWNEb-hvhgNd-UTujCb { color: rgb(31, 31, 31); font-size: 12px; font-weight: 500; }
+
+.VIpgJd-yAWNEb-hvhgNd .VIpgJd-yAWNEb-hvhgNd-N7Eqid-B7I4Od .VIpgJd-yAWNEb-SIsrTd .VIpgJd-yAWNEb-hvhgNd-UTujCb { text-align: right; }
+
+.VIpgJd-yAWNEb-hvhgNd .VIpgJd-yAWNEb-hvhgNd-eO9mKe { color: rgb(68, 71, 70); font-size: 12px; padding-top: 4px; }
+
+.VIpgJd-yAWNEb-hvhgNd .VIpgJd-yAWNEb-hvhgNd-N7Eqid-B7I4Od .VIpgJd-yAWNEb-SIsrTd .VIpgJd-yAWNEb-hvhgNd-eO9mKe { text-align: right; }
+
+.VIpgJd-yAWNEb-hvhgNd .VIpgJd-yAWNEb-hvhgNd-xgov5 { position: absolute; top: 10px; right: 5px; }
+
+.VIpgJd-yAWNEb-hvhgNd .VIpgJd-yAWNEb-hvhgNd-xgov5 .VIpgJd-yAWNEb-SIsrTd { left: 5px; right: auto; }
+
+.VIpgJd-yAWNEb-hvhgNd .VIpgJd-yAWNEb-hvhgNd-THI6Vb { fill: rgb(11, 87, 208); }
+
+.VIpgJd-yAWNEb-hvhgNd .VIpgJd-yAWNEb-hvhgNd-bgm6sf { margin: -4px 2px 0px 0px; padding: 2px 0px 0px; width: 48px; height: 48px; border: none; border-radius: 24px; cursor: pointer; background: none; }
+
+.VIpgJd-yAWNEb-hvhgNd .VIpgJd-yAWNEb-hvhgNd-bgm6sf:hover { background: rgb(232, 235, 236); }
+
+.VIpgJd-yAWNEb-hvhgNd .VIpgJd-yAWNEb-hvhgNd-aXYTce { display: none; }
+
+sentinel { }
+------MultipartBoundary--63hNU4vuJ6rrmcGUwRKAwI387qana3JNzse5qrR0eU----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://emn178.github.io/online-tools/images/arrow.svg
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12"><path fill="#9ca3af" d="M5.9 11.4L.5 6l1.4-1.4 4 4 4-4L11.3 6z"></path></svg>
+
+------MultipartBoundary--63hNU4vuJ6rrmcGUwRKAwI387qana3JNzse5qrR0eU----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://emn178.github.io/online-tools/css/style.css?v=27
+
+@charset "utf-8";
+
+html { line-height: 1.15; text-size-adjust: 100%; }
+
+body { margin: 0px; }
+
+main { display: block; }
+
+h1 { font-size: 2em; margin: 0.67em 0px; }
+
+hr { box-sizing: content-box; height: 0px; overflow: visible; }
+
+pre { font-family: monospace, monospace; font-size: 1em; }
+
+a { background-color: transparent; }
+
+abbr[title] { border-bottom: none; text-decoration: underline dotted; }
+
+b, strong { font-weight: bolder; }
+
+code, kbd, samp { font-family: monospace, monospace; font-size: 1em; }
+
+small { font-size: 80%; }
+
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline; }
+
+sub { bottom: -0.25em; }
+
+sup { top: -0.5em; }
+
+img { border-style: none; }
+
+button, input, optgroup, select, textarea { font-family: inherit; font-size: 100%; line-height: 1.15; margin: 0px; }
+
+button, input { overflow: visible; }
+
+button, select { text-transform: none; }
+
+button, [type="button"], [type="reset"], [type="submit"] { appearance: button; }
+
+fieldset { padding: 0.35em 0.75em 0.625em; }
+
+legend { box-sizing: border-box; color: inherit; display: table; max-width: 100%; padding: 0px; white-space: normal; }
+
+progress { vertical-align: baseline; }
+
+textarea { overflow: auto; }
+
+[type="checkbox"], [type="radio"] { box-sizing: border-box; padding: 0px; }
+
+[type="number"]::-webkit-inner-spin-button, [type="number"]::-webkit-outer-spin-button { height: auto; }
+
+[type="search"] { appearance: textfield; outline-offset: -2px; }
+
+[type="search"]::-webkit-search-decoration { appearance: none; }
+
+::-webkit-file-upload-button { appearance: button; font: inherit; }
+
+details { display: block; }
+
+summary { display: list-item; }
+
+template { display: none; }
+
+[hidden] { display: none; }
+
+* { box-sizing: border-box; }
+
+html { --var-gray-100: #f9fafb; --var-gray-200: #f3f4f6; --var-gray-300: #e5e7eb; --var-gray-400: #9ca3af; --var-gray-500: #6b7280; --var-gray-600: #374151; --var-gray-700: #1f2937; --var-gray-800: #111827; --var-gray-900: #090808; --var-white: #fff; --var-gray: #9ca3af; --var-green: #3ec972; --var-blue: #49b1f5; --var-red: #e63939; --var-primary: #49b1f5; --var-bg-color: #f3f4f6; --var-main-bg-color: #fff; --var-font-color: #1f2937; --var-border-color: #e5e7eb; --var-title-bg-color: #f9fafb; --var-sidebar-link-color: #6b7280; --var-sidebar-link-color-hover: #374151; --var-sidebar-color: #1f2937; --var-button-bg-color: #111827; --var-button-hover-bg-color: #202e4b; --var-icon-hover-bg-color: #e5e7eb; --var-input-color: #090808; --var-input-bg-color: #fff; --var-textarea-color: #090808; --var-textarea-bg-color: #fff; }
+
+html.dark-theme { --var-bg-color: #111827; --var-main-bg-color: #1f2937; --var-font-color: #9ca3af; --var-border-color: #374151; --var-title-bg-color: rgba(55,65,81,0.5); --var-sidebar-link-color: #9ca3af; --var-sidebar-link-color-hover: #e5e7eb; --var-sidebar-color: #f3f4f6; --var-button-bg-color: #f3f4f6; --var-button-hover-bg-color: #fff; --var-icon-hover-bg-color: #374151; --var-input-color: #9ca3af; --var-input-bg-color: #1f2937; --var-textarea-color: #ccc; --var-textarea-bg-color: #1e1e1e; }
+
+body { color: var(--var-font-color); background-color: var(--var-bg-color); font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+
+h1 { font-size: 20px; margin: 0px 0px 0.5rem; }
+
+h2 { margin: 0px; font-size: 14px; }
+
+a { color: var(--var-primary); text-decoration: none; }
+
+a:hover { color: rgb(49, 167, 244); }
+
+details[open] summary::after { transform: rotate(-180deg); }
+
+summary { cursor: pointer; list-style: none; display: flex; }
+
+summary::-webkit-details-marker { display: none; }
+
+summary::after { content: ""; background-image: url("../images/arrow.svg"); width: 12px; height: 12px; display: block; margin-left: 0.375rem; transition: transform 0.2s; }
+
+#app { display: flex; }
+
+#sidebar h2 { font-size: 18px; font-weight: normal; }
+
+#sidebar .container { color: var(--var-sidebar-color); background-color: var(--var-main-bg-color); width: 16rem; height: 100vh; padding: 1rem; font-size: 14px; box-shadow: rgb(0, 0, 0) 0px 0px, rgb(0, 0, 0) 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px; overflow: auto; scrollbar-width: none; position: absolute; left: 0px; top: 0px; z-index: 2; transform: translateX(-100%); transition: transform 0.5s; }
+
+#sidebar header { display: flex; align-items: center; margin-bottom: 0.5rem; }
+
+#sidebar header a { display: flex; align-items: center; padding: 0.5rem; }
+
+#sidebar header a img { margin-right: 0.5rem; }
+
+#sidebar details { padding: 0.5rem 0.75rem; border-radius: 0.5rem; }
+
+#sidebar details.active, #sidebar details:hover { background-image: linear-gradient(135deg, rgba(73, 177, 245, 0.12), rgba(73, 177, 245, 0.04)); }
+
+#sidebar details + details { margin-top: 0.25rem; }
+
+#sidebar summary { font-weight: 500; padding: 0.25rem 0px; }
+
+#sidebar summary::after { margin-left: auto; }
+
+#sidebar ol { list-style-type: none; padding: 0px; margin: 0px; }
+
+#sidebar li { margin-top: 0.25rem; }
+
+#sidebar a { color: var(--var-sidebar-link-color); display: block; padding: 0.25rem 0px; }
+
+#sidebar a:hover { color: var(--var-sidebar-link-color-hover); }
+
+#sidebar .active > a { color: var(--var-primary); }
+
+#sidebar.open .container { transform: translateY(0px); }
+
+#sidebar.open .mask { background-color: rgba(var(--var-button-bg-color), 0.3); position: fixed; left: 0px; top: 0px; z-index: 2; width: 100vw; height: 100vh; }
+
+#sidebar .section + .section { margin-top: 0.5rem; }
+
+#sidebar h3 { font-weight: bolder; font-size: 14px; padding: 0.5rem; margin: 0px; color: var(--var-gray-400); }
+
+#sidebar .links { padding: 0px 0.75rem; }
+
+.theme { margin-left: auto; padding: 0.5rem !important; }
+
+.theme .dark { display: none; }
+
+.theme img { width: 16px !important; height: 16px !important; }
+
+.dark-theme .theme .light { display: none; }
+
+.dark-theme .theme .dark { display: block; }
+
+#content { flex: 1 1 0%; display: flex; flex-direction: column; height: 100vh; overflow: auto; }
+
+#content .top-nav { padding: 1rem; background-color: var(--var-main-bg-color); }
+
+#content .top-nav img { width: 24px; height: 24px; }
+
+#content .top-nav button { border: 0px; background-color: transparent; }
+
+#content header { padding: 1rem; border-bottom: 1px var(--var-border-color) solid; }
+
+#content header p { font-size: 14px; margin: 0px; }
+
+#content main { flex: 1 1 0%; }
+
+.layout .block-title { font-size: 14px; font-weight: normal; border-bottom: 1px solid var(--var-border-color); background-color: var(--var-title-bg-color); display: flex; align-items: center; padding: 0.25rem 1rem; line-height: 22px; height: 39px; min-height: 39px; }
+
+.hidden-input { position: absolute; top: 0px; left: 0px; pointer-events: none; opacity: 0; }
+
+.input .container, .output .container { height: 150px; overflow: auto; scrollbar-width: none; }
+
+.input textarea, .output textarea { display: block; }
+
+.output input { width: 100%; border-radius: 0px; }
+
+.toolbar { margin-left: auto; display: flex; }
+
+.toolbar img { width: 22px; height: 22px; }
+
+.toolbar .icon { border: 0px; padding: 0.25rem; background-color: transparent; display: inline-flex; cursor: pointer; }
+
+.toolbar .icon:hover { border-radius: 50%; background-color: var(--var-icon-hover-bg-color); }
+
+.toolbar .icon + .icon { margin-left: 0.25rem; }
+
+#swap { transform: rotate(90deg); }
+
+.settings .container { padding: 1rem; }
+
+.setting label { display: block; margin-bottom: 0.5rem; font-size: 14px; }
+
+.setting select, .setting input { display: block; width: 100%; }
+
+.setting + .setting, .setting + .setting-group { margin-top: 1rem; }
+
+.setting .btn { display: block; width: 100%; }
+
+.setting-group { border: 1px solid var(--var-gray-400); border-radius: 5px; position: relative; margin-top: 0.75rem; padding: 1rem 0.5rem 0.5rem; }
+
+.setting-group + .setting, .setting-group + .setting-group { margin-top: 1rem; }
+
+.setting-group summary { position: absolute; left: 1rem; top: -6px; font-size: 12px; background-color: var(--var-bg-color); padding: 0px 0.5rem; }
+
+textarea { background-color: var(--var-textarea-bg-color); color: var(--var-textarea-color); width: 100%; height: 150px; border: 1px solid var(--var-border-color); outline: none; resize: none; font-family: Menlo, Monaco, "Courier New", monospace; padding: 0.5rem; font-size: 12px; line-height: 18px; }
+
+select, input { background-color: var(--var-input-bg-color); color: var(--var-input-color); appearance: none; padding: 10px; border: 1px solid var(--var-border-color); font-size: 14px; border-radius: 0.5rem; outline: none; }
+
+select { background-image: url("../images/arrow.svg"); background-repeat: no-repeat; background-position: right 0.5rem center; background-size: 12px; }
+
+input[type="range"] { appearance: none; background: transparent; cursor: pointer; border: 0px; }
+
+input[type="range"]:focus { outline: none; }
+
+input[type="range"]::-webkit-slider-runnable-track { background-color: var(--var-gray-400); border-radius: 0.5rem; height: 0.5rem; }
+
+input[type="range"]::-webkit-slider-thumb { appearance: none; margin-top: -4px; background-color: var(--var-primary); border-radius: 0.5rem; height: 1rem; width: 1rem; }
+
+.monaco-editor-wrap { border: 1px solid var(--var-border-color); }
+
+.btn { color: var(--var-bg-color); background-color: var(--var-button-bg-color); padding: 0.5rem 0.75rem; border-radius: 0.5rem; cursor: pointer; border: 0px; text-align: center; }
+
+.btn:hover { background-color: var(--var-button-hover-bg-color); color: var(--var-bg-color); }
+
+.switcher { align-items: center; cursor: pointer; display: flex !important; }
+
+.switcher input { display: none; }
+
+.switcher input:checked + .toggle { background-color: var(--var-primary); }
+
+.switcher input:checked + .toggle::before { transform: translateX(100%); }
+
+.switcher .toggle { width: 44px; height: 24px; background-color: var(--var-gray-400); border-radius: 9999px; display: flex; align-items: center; }
+
+.switcher .toggle::before { content: ""; display: block; height: 18px; width: 18px; margin: 3px; background-color: var(--var-white); border-radius: 50%; transition: 0.1s; }
+
+.switcher .loading + .toggle::before { display: none; }
+
+.switcher .loading + .toggle::after { content: ""; height: 8px; width: 8px; inset: 5px; border-radius: 50%; border-width: 5px; border-style: solid; border-color: white transparent transparent; border-image: initial; animation: 1s linear 0s infinite normal none running rotation; margin: auto; }
+
+.switcher span { margin-left: 0.5rem; }
+
+@keyframes rotation { 
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.hidden-copy-input { opacity: 0; position: absolute; pointer-events: none; left: 0px; top: 0px; }
+
+#message { font-size: 14px; position: fixed; top: 2rem; left: 2rem; right: 2rem; z-index: 10; border: 1px solid var(--var-border-color); padding: 1rem; border-radius: 0.5rem; background-color: var(--var-main-bg-color); display: none; box-shadow: rgb(255, 255, 255) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px; }
+
+#message::before { content: "✓"; display: inline-block; color: var(--var-primary); margin-right: 0.5rem; }
+
+#message.error::before { content: "✗"; color: var(--var-red); }
+
+.droppable-zone { border: 2px dashed var(--var-border-color); width: 100%; height: 155px; position: relative; overflow: hidden; background-color: var(--var-input-bg-color); }
+
+.droppable-zone.hover { border: 2px dashed var(--var-primary); }
+
+.droppable-zone-wrapper { height: 100%; width: 100%; display: flex; align-items: center; flex-direction: column; justify-content: center; padding: 1rem; overflow: hidden; }
+
+.droppable-zone-icon { width: 24px; height: 24px; }
+
+.droppable-zone-text { font-size: 16px; max-height: 55px; overflow: hidden; margin-top: 1rem; text-align: center; }
+
+.droppable-file { position: absolute; top: 0px; left: 0px; opacity: 0; z-index: 2; height: 100%; width: 100%; cursor: pointer; }
+
+#index { padding: 0px 1rem 1rem; }
+
+#index .blocks { display: grid; gap: 1rem; grid-template-columns: 1fr; }
+
+#index .block { background-color: var(--var-main-bg-color); border-radius: 0.75rem; }
+
+#index h2 { margin: 1rem 0px; }
+
+#index h3 { font-size: 16px; font-weight: 600; margin: 0px; padding: 1rem; border-bottom: 1px solid var(--var-border-color); }
+
+#index nav { padding: 1rem; }
+
+#index ol { list-style: none; padding: 0px; margin: 0px; }
+
+#index li + li { margin-top: 0.25rem; }
+
+#index a { display: block; padding: 0.25rem 0px; }
+
+#page404 { display: flex; align-items: center; justify-content: center; height: 100%; flex-direction: column; }
+
+#page404 img { width: 64px; margin-bottom: 1rem; }
+
+#validate-result { color: var(--var-textarea-color); background-color: var(--var-textarea-bg-color); border: 1px solid var(--var-border-color); display: flex; align-items: center; justify-content: center; font-size: 24px; }
+
+#validate-result::before { display: inline-block; margin-right: 0.5rem; }
+
+#validate-result.valid::before { content: "✓"; color: var(--var-green); }
+
+#validate-result.invalid::before { content: "✗"; color: var(--var-red); }
+
+.json-viewer { background-color: var(--var-input-bg-color); }
+
+.dark-theme .json-viewer { background-color: rgb(39, 40, 34); }
+
+.syntax-highlight { margin: 0px; }
+
+.syntax-highlight code { height: 100%; font-size: 12px; line-height: 18px; padding: 8px; }
+
+#download-image, #download-public { animation: 0.5s ease 0s 4 normal none running bounce; }
+
+@keyframes bounce { 
+  0% { transform: scale(1.3); }
+  100% { transform: scale(1); }
+}
+
+.fullscreen { position: fixed; left: 0px; top: 0px; z-index: 9; width: 100vw; height: 100vh; background-color: var(--var-bg-color); display: flex; flex-direction: column; }
+
+.fullscreen .container { height: auto; flex: 1 1 0%; }
+
+.fullscreen .fullscreen-icon { display: none; }
+
+.fullscreen .fullscreen-icon-exit { display: inline-block; }
+
+.fullscreen #swap { display: none; }
+
+.fullscreen-icon-exit { display: none; }
+
+@media (min-width: 768px) {
+  .input .container, .output .container { height: 250px; }
+  #index .blocks { grid-template-columns: 1fr 1fr; }
+}
+
+@media (min-width: 1024px) {
+  #content main { overflow: auto; }
+  .layout { display: flex; flex-direction: row-reverse; height: 100%; }
+  .layout .settings { width: 24rem; display: flex; flex-direction: column; }
+  .layout .layout-block { flex: 1 1 0%; overflow: auto; position: relative; }
+  .layout .container { height: initial; flex: 1 1 0%; overflow: auto; scrollbar-width: none; }
+  .layout .block { display: flex; flex-direction: column; overflow: hidden; }
+  .layout .block-fill { flex: 1 1 0%; }
+  .input, .output { height: 50%; display: flex; flex-direction: column; overflow: auto; }
+  .droppable-zone-icon { width: 48px; height: 48px; }
+  #index .blocks { grid-template-columns: 1fr 1fr 1fr; }
+}
+
+@media (min-width: 1280px) {
+  #sidebar .container { position: static; transform: none; }
+  #content .top-nav { display: none; }
+  #content header { padding: 1rem 2rem; }
+  #message { top: 1rem; left: initial; right: 2rem; }
+  #index { padding: 0px 2rem 2rem; }
+}
+
+@media (min-width: 1366px) {
+  #sidebar .container { position: static; transform: none; }
+  #content .top-nav { display: none; }
+  #content header { padding: 1rem 2rem; }
+  #message { top: 1rem; left: initial; right: 2rem; }
+  #index .blocks { grid-template-columns: 1fr 1fr 1fr 1fr; }
+}
+
+@media (min-width: 1920px) {
+  .layout .layout-block { display: flex; }
+  .input, .output { height: initial; flex: 1 1 0%; }
+  #swap { position: absolute; left: 50%; top: 5px; transform: translateX(-50%); z-index: 2; margin: auto; }
+  #index .blocks { grid-template-columns: 1fr 1fr 1fr 1fr 1fr; }
+}
+------MultipartBoundary--63hNU4vuJ6rrmcGUwRKAwI387qana3JNzse5qrR0eU----
+Content-Type: text/html
+Content-ID: <frame-D36C095AE04AF03DB611898AB6059329@mhtml.blink>
+Content-Transfer-Encoding: binary
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body></body></html>
+------MultipartBoundary--63hNU4vuJ6rrmcGUwRKAwI387qana3JNzse5qrR0eU----
+Content-Type: text/html
+Content-ID: <frame-86DBEC6B97CE2A1A6A5AD6C6541E331E@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://td.doubleclick.net/td/ga/rul?tid=G-WT6N5R6W6Z&gacid=790665972.1745357149&gtm=45je54l0v9123106548za200&dma=0&gcd=13l3l3l3l1l1&npa=0&pscdl=noapi&aip=1&fledge=1&frm=0&tag_exp=102803279~102813109~102887800~102926062~103027016~103051953~103055465~103077950~103106314~103106316&z=1317466227
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body></body></html>
+------MultipartBoundary--63hNU4vuJ6rrmcGUwRKAwI387qana3JNzse5qrR0eU------
