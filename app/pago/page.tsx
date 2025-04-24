@@ -257,7 +257,7 @@ export default function PaymentPage() {
                         </div>
                         <div className="grid grid-cols-2">
                           <span className="font-medium">CLABE:</span>
-                          <span>012345678901234567</span>
+                          <span>036260711506296288</span>
                         </div>
                         <div className="grid grid-cols-2">
                           <span className="font-medium">Referencia:</span>
